@@ -9,7 +9,9 @@ ARTISTS = [
     "Ebru Gündeş",
     "Melike Şahin",
     "Mabel Matiz",
-    "Sıla"
+    "Sıla",
+    "VakıfBank",
+    "Fenerbahçe"
 ]
 
 def send_email(subject, body):
