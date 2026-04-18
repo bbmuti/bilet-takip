@@ -1,0 +1,53 @@
+{
+  "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes": {
+    "title": "10 Ebru Gündeş “Beraber Söylüyoruz” 18 Nisan 2026, 19 Nisan 2026, 8 Mayıs 2026, 9 Mayıs 2026 Volkswagen Arena 6000 ₺",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
+    "matched_keywords": [
+      "Ebru Gündeş"
+    ],
+    "sale_status": "on_sale"
+  },
+  "https://www.bubilet.com.tr/ankara/etkinlik/sila-konseri": {
+    "title": "6 Sıla Konseri 19 Nisan 2026 Congresium Ankara 3000 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/sila-konseri",
+    "matched_keywords": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale"
+  },
+  "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri": {
+    "title": "9 Melike Şahin 17 Temmuz 2026 CerModern 1500 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri",
+    "matched_keywords": [
+      "Melike Şahin",
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale"
+  },
+  "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri": {
+    "title": "6 Mabel Matiz 8 Mayıs 2026, 9 Mayıs 2026 Kültürpark Açıkhava Tiyatrosu 2400 ₺",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri",
+    "matched_keywords": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale"
+  },
+  "https://www.bubilet.com.tr/izmir/etkinlik/melike-sahin-": {
+    "title": "10 Melike Şahin 14 Haziran 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 2750 ₺",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/melike-sahin-",
+    "matched_keywords": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale"
+  },
+  "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-": {
+    "title": "9 Melike Şahin 20 Haziran 2026 Antalya Açıkhava 3630 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-",
+    "matched_keywords": [
+      "Melike Şahin",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "on_sale"
+  }
+}
