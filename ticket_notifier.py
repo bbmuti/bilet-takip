@@ -64,18 +64,22 @@ EVENT_LINK_HINTS = [
     "/sports/",
 ]
 
+
 def load_state():
     if not os.path.exists(STATE_FILE):
         return {}
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+            return data if isinstance(data, dict) else {}
     except Exception:
         return {}
+
 
 def save_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
+
 
 def send_email(subject, body):
     smtp_host = os.getenv("SMTP_HOST")
@@ -96,8 +100,10 @@ def send_email(subject, body):
         server.login(smtp_user, smtp_pass)
         server.sendmail(smtp_user, [mail_to], msg.as_string())
 
+
 def normalize_text(text):
     return " ".join(text.split()).strip()
+
 
 def fetch(url):
     try:
@@ -107,12 +113,15 @@ def fetch(url):
     except Exception:
         return ""
 
+
 def text_matches_keyword(text, keyword):
     return keyword.lower() in text.lower()
+
 
 def looks_like_event_link(href):
     href_lower = href.lower()
     return any(hint in href_lower for hint in EVENT_LINK_HINTS)
+
 
 def find_candidate_links(page_url, html):
     soup = BeautifulSoup(html, "html.parser")
@@ -132,7 +141,6 @@ def find_candidate_links(page_url, html):
             continue
 
         if not looks_like_event_link(full_url) and not looks_like_event_link(href):
-            # link yolu çok genel olsa bile başlıkta aranan ifade geçiyorsa yine de al
             pass
 
         results.append({
@@ -142,7 +150,6 @@ def find_candidate_links(page_url, html):
             "source_page": page_url,
         })
 
-    # aynı URL'leri tekilleştir
     dedup = {}
     for item in results:
         url = item["url"]
@@ -150,10 +157,10 @@ def find_candidate_links(page_url, html):
             dedup[url] = item
         else:
             old = dedup[url]
-            merged = sorted(set(old["matched_keywords"] + item["matched_keywords"]))
-            old["matched_keywords"] = merged
+            old["matched_keywords"] = sorted(set(old["matched_keywords"] + item["matched_keywords"]))
 
     return list(dedup.values())
+
 
 def detect_sale_status(html):
     text = BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
@@ -167,9 +174,9 @@ def detect_sale_status(html):
     if off_hit and not on_hit:
         return "off_sale"
     if on_hit and off_hit:
-        # satış butonu daha güçlü sayılır
         return "on_sale"
     return "unknown"
+
 
 def inspect_event(candidate):
     html = fetch(candidate["url"])
@@ -196,20 +203,30 @@ def inspect_event(candidate):
     return {
         "title": title,
         "url": candidate["url"],
-        "matched_keywords": matched_keywords,
+        "matched_keywords": sorted(set(matched_keywords)),
         "sale_status": sale_status,
         "source_page": candidate["source_page"],
     }
 
+
 def build_key(item):
     return item["url"]
 
-def should_notify(old_status, new_status):
+
+def should_notify(old_record, new_record):
+    new_status = new_record["sale_status"]
     if new_status != "on_sale":
         return False
-    if old_status is None:
+
+    if old_record is None:
         return True
-    return old_status != "on_sale"
+
+    old_status = old_record.get("sale_status")
+    if old_status != "on_sale":
+        return True
+
+    return False
+
 
 def main():
     previous_state = load_state()
@@ -223,7 +240,6 @@ def main():
             continue
         all_candidates.extend(find_candidate_links(page, html))
 
-    # aynı URL'leri tekilleştir
     unique_candidates = {}
     for item in all_candidates:
         if item["url"] not in unique_candidates:
@@ -238,17 +254,16 @@ def main():
             continue
 
         key = build_key(inspected)
-        old_status = previous_state.get(key, {}).get("sale_status")
-        new_status = inspected["sale_status"]
+        old_record = previous_state.get(key)
 
         current_state[key] = {
             "title": inspected["title"],
             "url": inspected["url"],
             "matched_keywords": inspected["matched_keywords"],
-            "sale_status": new_status,
+            "sale_status": inspected["sale_status"],
         }
 
-        if should_notify(old_status, new_status):
+        if should_notify(old_record, inspected):
             notifications.append(inspected)
 
     save_state(current_state)
@@ -257,7 +272,7 @@ def main():
         print("Yeni satış bildirimi yok.")
         return
 
-    lines = ["Satışta olan yeni bilet / etkinlik bulundu:\n"]
+    lines = ["Satışa çıkan bilet / etkinlik bulundu:\n"]
 
     for i, item in enumerate(notifications, start=1):
         lines.append(f"{i}. Başlık: {item['title']}")
@@ -266,9 +281,9 @@ def main():
         lines.append(f"Link: {item['url']}")
         lines.append("")
 
-    body = "\n".join(lines)
-    send_email("Yeni bilet satış bildirimi", body)
+    send_email("Yeni bilet satış bildirimi", "\n".join(lines))
     print(f"Mail gönderildi. Bildirim sayısı: {len(notifications)}")
+
 
 if __name__ == "__main__":
     main()
