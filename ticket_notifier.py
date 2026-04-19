@@ -7,14 +7,30 @@ from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-TRACKED_KEYWORDS = [
+ARTIST_KEYWORDS = [
     "Hadise",
     "Ebru Gündeş",
     "Melike Şahin",
     "Mabel Matiz",
     "Sıla",
+    "Derya Bedavacı",
+]
+
+TEAM_KEYWORDS = [
     "VakıfBank",
     "Fenerbahçe",
+]
+
+VOLLEYBALL_HINTS = [
+    "voleybol",
+    "volleyball",
+    "sultanlar ligi",
+    "cev",
+    "challenge cup",
+    "champions league",
+    "kadın voleybol",
+    "erkek voleybol",
+    "axa sigorta efeler ligi",
 ]
 
 SEARCH_PAGES = [
@@ -41,6 +57,7 @@ ON_SALE_PATTERNS = [
     r"\bbuy now\b",
     r"\bget ticket\b",
     r"\bavailable\b",
+    r"\bbook now\b",
 ]
 
 OFF_SALE_PATTERNS = [
@@ -51,6 +68,7 @@ OFF_SALE_PATTERNS = [
     r"\bsold out\b",
     r"\bcurrently unavailable\b",
     r"\bnot available\b",
+    r"\byakında satışta\b",
 ]
 
 EVENT_LINK_HINTS = [
@@ -62,8 +80,9 @@ EVENT_LINK_HINTS = [
     "/tiyatro/",
     "/spor/",
     "/sports/",
+    "/artist/",
+    "/sanatci/",
 ]
-
 
 def load_state():
     if not os.path.exists(STATE_FILE):
@@ -75,11 +94,9 @@ def load_state():
     except Exception:
         return {}
 
-
 def save_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
-
 
 def send_email(subject, body):
     smtp_host = os.getenv("SMTP_HOST")
@@ -100,10 +117,8 @@ def send_email(subject, body):
         server.login(smtp_user, smtp_pass)
         server.sendmail(smtp_user, [mail_to], msg.as_string())
 
-
 def normalize_text(text):
     return " ".join(text.split()).strip()
-
 
 def fetch(url):
     try:
@@ -113,15 +128,9 @@ def fetch(url):
     except Exception:
         return ""
 
-
-def text_matches_keyword(text, keyword):
-    return keyword.lower() in text.lower()
-
-
 def looks_like_event_link(href):
     href_lower = href.lower()
     return any(hint in href_lower for hint in EVENT_LINK_HINTS)
-
 
 def find_candidate_links(page_url, html):
     soup = BeautifulSoup(html, "html.parser")
@@ -136,8 +145,10 @@ def find_candidate_links(page_url, html):
         full_url = urljoin(page_url, href)
         combined = f"{text} {href}"
 
-        matched_keywords = [kw for kw in TRACKED_KEYWORDS if text_matches_keyword(combined, kw)]
-        if not matched_keywords:
+        matched_artists = [kw for kw in ARTIST_KEYWORDS if kw.lower() in combined.lower()]
+        matched_teams = [kw for kw in TEAM_KEYWORDS if kw.lower() in combined.lower()]
+
+        if not matched_artists and not matched_teams:
             continue
 
         if not looks_like_event_link(full_url) and not looks_like_event_link(href):
@@ -146,7 +157,8 @@ def find_candidate_links(page_url, html):
         results.append({
             "title": text,
             "url": full_url,
-            "matched_keywords": matched_keywords,
+            "matched_artists": matched_artists,
+            "matched_teams": matched_teams,
             "source_page": page_url,
         })
 
@@ -157,10 +169,10 @@ def find_candidate_links(page_url, html):
             dedup[url] = item
         else:
             old = dedup[url]
-            old["matched_keywords"] = sorted(set(old["matched_keywords"] + item["matched_keywords"]))
+            old["matched_artists"] = sorted(set(old["matched_artists"] + item["matched_artists"]))
+            old["matched_teams"] = sorted(set(old["matched_teams"] + item["matched_teams"]))
 
     return list(dedup.values())
-
 
 def detect_sale_status(html):
     text = BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
@@ -177,6 +189,28 @@ def detect_sale_status(html):
         return "on_sale"
     return "unknown"
 
+def detect_category(page_text, candidate):
+    text_lower = page_text.lower()
+
+    matched_artists = sorted(set([
+        kw for kw in ARTIST_KEYWORDS
+        if kw.lower() in text_lower or kw in candidate["matched_artists"]
+    ]))
+
+    matched_teams = sorted(set([
+        kw for kw in TEAM_KEYWORDS
+        if kw.lower() in text_lower or kw in candidate["matched_teams"]
+    ]))
+
+    volleyball_hit = any(hint.lower() in text_lower for hint in VOLLEYBALL_HINTS)
+
+    if matched_artists:
+        return "concert", matched_artists
+
+    if matched_teams and volleyball_hit:
+        return "sports", matched_teams
+
+    return None, []
 
 def inspect_event(candidate):
     html = fetch(candidate["url"])
@@ -187,12 +221,8 @@ def inspect_event(candidate):
     page_text = normalize_text(soup.get_text(" ", strip=True))
     sale_status = detect_sale_status(html)
 
-    matched_keywords = [
-        kw for kw in TRACKED_KEYWORDS
-        if kw.lower() in page_text.lower() or kw in candidate["matched_keywords"]
-    ]
-
-    if not matched_keywords:
+    category, matched_names = detect_category(page_text, candidate)
+    if not category or not matched_names:
         return None
 
     title = candidate["title"]
@@ -203,30 +233,51 @@ def inspect_event(candidate):
     return {
         "title": title,
         "url": candidate["url"],
-        "matched_keywords": sorted(set(matched_keywords)),
+        "category": category,
+        "matched_names": matched_names,
         "sale_status": sale_status,
         "source_page": candidate["source_page"],
     }
 
-
 def build_key(item):
     return item["url"]
 
-
 def should_notify(old_record, new_record):
-    new_status = new_record["sale_status"]
-    if new_status != "on_sale":
+    if new_record["sale_status"] != "on_sale":
         return False
 
     if old_record is None:
         return True
 
-    old_status = old_record.get("sale_status")
-    if old_status != "on_sale":
-        return True
+    if old_record.get("notified", False):
+        return False
 
-    return False
+    old_status = old_record.get("sale_status", "unknown")
+    return old_status != "on_sale"
 
+def group_notifications(notifications):
+    concerts = []
+    sports = []
+
+    for item in notifications:
+        if item["category"] == "concert":
+            concerts.append(item)
+        elif item["category"] == "sports":
+            sports.append(item)
+
+    return concerts, sports
+
+def build_mail_body(items, label):
+    lines = [f"{label} için yeni satış bildirimi:\n"]
+
+    for i, item in enumerate(items, start=1):
+        lines.append(f"{i}. Başlık: {item['title']}")
+        lines.append(f"Eşleşen isimler: {', '.join(item['matched_names'])}")
+        lines.append(f"Durum: {item['sale_status']}")
+        lines.append(f"Link: {item['url']}")
+        lines.append("")
+
+    return "\n".join(lines)
 
 def main():
     previous_state = load_state()
@@ -246,7 +297,8 @@ def main():
             unique_candidates[item["url"]] = item
         else:
             old = unique_candidates[item["url"]]
-            old["matched_keywords"] = sorted(set(old["matched_keywords"] + item["matched_keywords"]))
+            old["matched_artists"] = sorted(set(old["matched_artists"] + item["matched_artists"]))
+            old["matched_teams"] = sorted(set(old["matched_teams"] + item["matched_teams"]))
 
     for candidate in unique_candidates.values():
         inspected = inspect_event(candidate)
@@ -256,15 +308,20 @@ def main():
         key = build_key(inspected)
         old_record = previous_state.get(key)
 
+        notify_now = should_notify(old_record, inspected)
+
         current_state[key] = {
             "title": inspected["title"],
             "url": inspected["url"],
-            "matched_keywords": inspected["matched_keywords"],
+            "category": inspected["category"],
+            "matched_names": inspected["matched_names"],
             "sale_status": inspected["sale_status"],
+            "notified": bool(old_record.get("notified")) if old_record else False,
         }
 
-        if should_notify(old_record, inspected):
+        if notify_now:
             notifications.append(inspected)
+            current_state[key]["notified"] = True
 
     save_state(current_state)
 
@@ -272,18 +329,21 @@ def main():
         print("Yeni satış bildirimi yok.")
         return
 
-    lines = ["Satışa çıkan bilet / etkinlik bulundu:\n"]
+    concerts, sports = group_notifications(notifications)
 
-    for i, item in enumerate(notifications, start=1):
-        lines.append(f"{i}. Başlık: {item['title']}")
-        lines.append(f"Eşleşen isimler: {', '.join(item['matched_keywords'])}")
-        lines.append(f"Durum: {item['sale_status']}")
-        lines.append(f"Link: {item['url']}")
-        lines.append("")
+    if concerts:
+        send_email(
+            "Yeni konser bileti satışta",
+            build_mail_body(concerts, "Konser")
+        )
 
-    send_email("Yeni bilet satış bildirimi", "\n".join(lines))
-    print(f"Mail gönderildi. Bildirim sayısı: {len(notifications)}")
+    if sports:
+        send_email(
+            "Yeni spor bileti satışta",
+            build_mail_body(sports, "Spor / Voleybol")
+        )
 
+    print(f"Mail gönderildi. Toplam bildirim: {len(notifications)}")
 
 if __name__ == "__main__":
     main()
