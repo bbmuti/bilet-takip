@@ -19,13 +19,24 @@
     "sale_status": "unknown",
     "notified": true
   },
+  "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-": {
+    "title": "6 Sıla Konseri 5 Eylül 2026 CerModern YAKINDA",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "off_sale",
+    "notified": false
+  },
   "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri": {
-    "title": "8 Melike Şahin 17 Temmuz 2026 CerModern 1500 ₺",
+    "title": "9 Melike Şahin 17 Temmuz 2026 CerModern 1500 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri",
     "category": "concert",
     "matched_names": [
       "Mabel Matiz",
-      "Melike Şahin"
+      "Melike Şahin",
+      "Sıla"
     ],
     "sale_status": "unknown",
     "notified": false
