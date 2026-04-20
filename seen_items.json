@@ -9,8 +9,20 @@
     "sale_status": "unknown",
     "notified": false
   },
+  "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-": {
+    "title": "4 Sıla Konseri 5 Eylül 2026 CerModern YAKINDA",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "off_sale",
+    "notified": false
+  },
   "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-": {
-    "title": "4 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 1850 ₺",
+    "title": "5 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 1850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
     "category": "concert",
     "matched_names": [
@@ -18,16 +30,6 @@
     ],
     "sale_status": "unknown",
     "notified": true
-  },
-  "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-": {
-    "title": "6 Sıla Konseri 5 Eylül 2026 CerModern YAKINDA",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
-    "category": "concert",
-    "matched_names": [
-      "Sıla"
-    ],
-    "sale_status": "off_sale",
-    "notified": false
   },
   "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri": {
     "title": "9 Melike Şahin 17 Temmuz 2026 CerModern 1500 ₺",
@@ -67,8 +69,7 @@
     "category": "concert",
     "matched_names": [
       "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
+      "Melike Şahin"
     ],
     "sale_status": "unknown",
     "notified": false
