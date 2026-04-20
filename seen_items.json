@@ -6,7 +6,7 @@
     "matched_names": [
       "Ebru Gündeş"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": false
   },
   "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-": {
@@ -16,7 +16,7 @@
     "matched_names": [
       "Derya Bedavacı"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": true
   },
   "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri": {
@@ -27,7 +27,7 @@
       "Mabel Matiz",
       "Melike Şahin"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": false
   },
   "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri": {
@@ -37,7 +37,7 @@
     "matched_names": [
       "Mabel Matiz"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": false
   },
   "https://www.bubilet.com.tr/izmir/etkinlik/melike-sahin-": {
@@ -47,7 +47,7 @@
     "matched_names": [
       "Melike Şahin"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": false
   },
   "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-": {
@@ -59,7 +59,7 @@
       "Melike Şahin",
       "Sıla"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": false
   },
   "https://www.bubilet.com.tr/antalya/etkinlik/-mabel-matiz--": {
@@ -71,7 +71,7 @@
       "Melike Şahin",
       "Sıla"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "notified": false
   }
 }
