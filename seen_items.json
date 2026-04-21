@@ -1,1 +1,119 @@
-{}
+{
+  "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-": {
+    "title": "4 Sıla Konseri 5 Eylül 2026 CerModern 1250 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-": {
+    "title": "5 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 1350 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-": {
+    "title": "8 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi YAKINDA",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri": {
+    "title": "10 Melike Şahin 17 Temmuz 2026 CerModern 1500 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri": {
+    "title": "7 Mabel Matiz 8 Mayıs 2026, 9 Mayıs 2026 Kültürpark Açıkhava Tiyatrosu 2400 ₺",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-": {
+    "title": "10 mor ve ötesi 16 Mayıs 2026 İzmir Arena 1249 ₺",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-": {
+    "title": "7 Melike Şahin 20 Haziran 2026 Antalya Açıkhava 3630 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.bubilet.com.tr/antalya/etkinlik/-mabel-matiz--": {
+    "title": "10 Mabel Matiz 13 Mayıs 2026 Antalya Açıkhava 2000 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/-mabel-matiz--",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr": {
+    "title": "mor ve ötesi Etkinlikleri",
+    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  }
+}
