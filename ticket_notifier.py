@@ -5,7 +5,7 @@ import smtplib
 import requests
 from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 ARTIST_KEYWORDS = [
     "Hadise",
@@ -14,6 +14,7 @@ ARTIST_KEYWORDS = [
     "Mabel Matiz",
     "Sıla",
     "Derya Bedavacı",
+    "Mor ve Ötesi",
 ]
 
 TEAM_KEYWORDS = [
@@ -26,17 +27,11 @@ VOLLEYBALL_HINTS = [
     "volleyball",
     "sultanlar ligi",
     "cev",
-    "challenge cup",
     "champions league",
     "kadın voleybol",
     "erkek voleybol",
     "axa sigorta efeler ligi",
-]
-
-SEARCH_PAGES = [
-    "https://biletinial.com/tr-tr",
-    "https://www.bubilet.com.tr",
-    "https://www.biletix.com",
+    "efeler ligi",
 ]
 
 STATE_FILE = "seen_items.json"
@@ -45,44 +40,126 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 }
 
-ON_SALE_PATTERNS = [
-    r"\bbiletini al\b",
-    r"\bsatın al\b",
-    r"\bsepete ekle\b",
-    r"\bhemen al\b",
-    r"\bşimdi al\b",
-    r"\bbilet al\b",
-    r"\bon sale\b",
-    r"\bbuy ticket\b",
-    r"\bbuy now\b",
-    r"\bget ticket\b",
-    r"\bavailable\b",
-    r"\bbook now\b",
+SEARCH_PAGES = [
+    "https://biletinial.com/tr-tr",
+    "https://www.bubilet.com.tr",
+    "https://www.biletix.com",
 ]
 
-OFF_SALE_PATTERNS = [
-    r"\byakında\b",
-    r"\bçok yakında\b",
-    r"\bsatışta değil\b",
-    r"\btükendi\b",
-    r"\bsold out\b",
-    r"\bcurrently unavailable\b",
-    r"\bnot available\b",
-    r"\byakında satışta\b",
-]
+ARTIST_PAGE_PATTERNS = {
+    "bubilet": [
+        "https://www.bubilet.com.tr/sanatci/{slug}",
+    ],
+    "biletinial": [
+        "https://biletinial.com/tr-tr/profile/{slug}",
+        "https://biletinial.com/tr-tr/muzik/{slug}",
+    ],
+    "biletix": [
+        "https://www.biletix.com/artist/54/TURKIYE/tr/{slug}",
+        "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr/{slug}",
+    ],
+}
 
-EVENT_LINK_HINTS = [
-    "/etkinlik/",
-    "/event/",
-    "/muzik/",
-    "/music/",
-    "/konser/",
-    "/tiyatro/",
-    "/spor/",
-    "/sports/",
-    "/artist/",
-    "/sanatci/",
-]
+SITE_RULES = {
+    "bubilet": {
+        "on_sale_patterns": [
+            r"\bbiletler\b",
+            r"\bbilet\b",
+            r"\bbiletler satışta\b",
+            r"\bbiletleri satışta\b",
+            r"\bsatışta\b",
+            r"\bsepet\b",
+            r"\bsepetim\b",
+            r"\bşimdi satışta\b",
+            r"\bhemen satışta\b",
+            r"\b₺\b.*\bbilet",
+        ],
+        "off_sale_patterns": [
+            r"\byakında satışta\b",
+            r"\byakında\b",
+            r"\btükendi\b",
+            r"\bsold out\b",
+            r"\bnot available\b",
+        ],
+        "event_link_hints": [
+            "/etkinlik/",
+            "/seans/",
+            "/sanatci/",
+        ],
+    },
+    "biletinial": {
+        "on_sale_patterns": [
+            r"\bbiletini al\b",
+            r"\bbilet fiyatları\b",
+            r"\bbilet al\b",
+            r"\bsatın al\b",
+            r"\bsepete ekle\b",
+            r"\bson \d+ bilet\b",
+            r"\b\d+[.,]?\d*\s*₺.*bilet",
+            r"\bden başlayan fiyatlarla\b",
+        ],
+        "off_sale_patterns": [
+            r"\btükendi\b",
+            r"\byakında\b",
+            r"\bsatışta değil\b",
+            r"\bcurrently unavailable\b",
+        ],
+        "event_link_hints": [
+            "/tr-tr/muzik/",
+            "/tr-tr/profile/",
+            "/tr-tr/etkinlik/",
+            "/tr-tr/spor/",
+            "/tr-tr/mekan/",
+        ],
+    },
+    "biletix": {
+        "on_sale_patterns": [
+            r"\bbiletix\b.*\betkinlik",
+            r"\betkinlik takvimi\b",
+            r"\bbilet\b",
+            r"\bsatın al\b",
+            r"\bbuy\b",
+        ],
+        "off_sale_patterns": [
+            r"\btükendi\b",
+            r"\bsold out\b",
+            r"\bcurrently unavailable\b",
+        ],
+        "event_link_hints": [
+            "/etkinlik/",
+            "/artist/",
+            "/etkinlik-grup/",
+        ],
+    },
+}
+
+def slugify(name: str) -> str:
+    repl = {
+        "ç": "c", "Ç": "c",
+        "ğ": "g", "Ğ": "g",
+        "ı": "i", "İ": "i",
+        "ö": "o", "Ö": "o",
+        "ş": "s", "Ş": "s",
+        "ü": "u", "Ü": "u",
+        "&": "ve",
+    }
+    for k, v in repl.items():
+        name = name.replace(k, v)
+    name = name.lower().strip()
+    name = re.sub(r"[^a-z0-9\s-]", "", name)
+    name = re.sub(r"\s+", "-", name)
+    name = re.sub(r"-+", "-", name)
+    return name.strip("-")
+
+def detect_site(url: str) -> str:
+    host = urlparse(url).netloc.lower()
+    if "bubilet.com.tr" in host:
+        return "bubilet"
+    if "biletinial.com" in host:
+        return "biletinial"
+    if "biletix.com" in host:
+        return "biletix"
+    return "unknown"
 
 def load_state():
     if not os.path.exists(STATE_FILE):
@@ -128,18 +205,34 @@ def fetch(url):
     except Exception:
         return ""
 
-def looks_like_event_link(href):
-    href_lower = href.lower()
-    return any(hint in href_lower for hint in EVENT_LINK_HINTS)
+def site_event_link_hints(site: str):
+    return SITE_RULES.get(site, {}).get("event_link_hints", [])
+
+def looks_like_event_link(url: str, site: str) -> bool:
+    url_lower = url.lower()
+    return any(h in url_lower for h in site_event_link_hints(site))
+
+def artist_seed_urls():
+    urls = []
+    for artist in ARTIST_KEYWORDS:
+        slug = slugify(artist)
+        for site, patterns in ARTIST_PAGE_PATTERNS.items():
+            for pattern in patterns:
+                urls.append(pattern.format(slug=slug))
+    return urls
+
+def base_and_artist_pages():
+    return SEARCH_PAGES + artist_seed_urls()
 
 def find_candidate_links(page_url, html):
+    site = detect_site(page_url)
     soup = BeautifulSoup(html, "html.parser")
     results = []
 
     for a in soup.find_all("a", href=True):
         href = a.get("href", "").strip()
         text = normalize_text(a.get_text(" ", strip=True))
-        if not href or not text:
+        if not href:
             continue
 
         full_url = urljoin(page_url, href)
@@ -151,8 +244,10 @@ def find_candidate_links(page_url, html):
         if not matched_artists and not matched_teams:
             continue
 
-        if not looks_like_event_link(full_url) and not looks_like_event_link(href):
-            pass
+        if not looks_like_event_link(full_url, site):
+            # başlıkta birebir eşleşme varsa yine al
+            if not text:
+                continue
 
         results.append({
             "title": text,
@@ -160,6 +255,7 @@ def find_candidate_links(page_url, html):
             "matched_artists": matched_artists,
             "matched_teams": matched_teams,
             "source_page": page_url,
+            "site": site,
         })
 
     dedup = {}
@@ -174,18 +270,23 @@ def find_candidate_links(page_url, html):
 
     return list(dedup.values())
 
-def detect_sale_status(html):
+def detect_sale_status(html, site):
     text = BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
     text = normalize_text(text).lower()
 
-    on_hit = any(re.search(p, text, re.IGNORECASE) for p in ON_SALE_PATTERNS)
-    off_hit = any(re.search(p, text, re.IGNORECASE) for p in OFF_SALE_PATTERNS)
+    rules = SITE_RULES.get(site, {})
+    on_patterns = rules.get("on_sale_patterns", [])
+    off_patterns = rules.get("off_sale_patterns", [])
+
+    on_hit = any(re.search(p, text, re.IGNORECASE) for p in on_patterns)
+    off_hit = any(re.search(p, text, re.IGNORECASE) for p in off_patterns)
 
     if on_hit and not off_hit:
         return "on_sale"
     if off_hit and not on_hit:
         return "off_sale"
     if on_hit and off_hit:
+        # satış ifadesi varsa satışta kabul et
         return "on_sale"
     return "unknown"
 
@@ -202,7 +303,7 @@ def detect_category(page_text, candidate):
         if kw.lower() in text_lower or kw in candidate["matched_teams"]
     ]))
 
-    volleyball_hit = any(hint.lower() in text_lower for hint in VOLLEYBALL_HINTS)
+    volleyball_hit = any(h.lower() in text_lower for h in VOLLEYBALL_HINTS)
 
     if matched_artists:
         return "concert", matched_artists
@@ -217,9 +318,10 @@ def inspect_event(candidate):
     if not html:
         return None
 
+    site = candidate["site"] if candidate["site"] != "unknown" else detect_site(candidate["url"])
     soup = BeautifulSoup(html, "html.parser")
     page_text = normalize_text(soup.get_text(" ", strip=True))
-    sale_status = detect_sale_status(html)
+    sale_status = detect_sale_status(html, site)
 
     category, matched_names = detect_category(page_text, candidate)
     if not category or not matched_names:
@@ -236,6 +338,7 @@ def inspect_event(candidate):
         "category": category,
         "matched_names": matched_names,
         "sale_status": sale_status,
+        "site": site,
         "source_page": candidate["source_page"],
     }
 
@@ -273,6 +376,7 @@ def build_mail_body(items, label):
     for i, item in enumerate(items, start=1):
         lines.append(f"{i}. Başlık: {item['title']}")
         lines.append(f"Eşleşen isimler: {', '.join(item['matched_names'])}")
+        lines.append(f"Site: {item['site']}")
         lines.append(f"Durum: {item['sale_status']}")
         lines.append(f"Link: {item['url']}")
         lines.append("")
@@ -285,7 +389,7 @@ def main():
     notifications = []
 
     all_candidates = []
-    for page in SEARCH_PAGES:
+    for page in base_and_artist_pages():
         html = fetch(page)
         if not html:
             continue
@@ -316,6 +420,7 @@ def main():
             "category": inspected["category"],
             "matched_names": inspected["matched_names"],
             "sale_status": inspected["sale_status"],
+            "site": inspected["site"],
             "notified": bool(old_record.get("notified")) if old_record else False,
         }
 
