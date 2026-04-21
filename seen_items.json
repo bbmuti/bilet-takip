@@ -1,6 +1,6 @@
 {
   "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-": {
-    "title": "4 Sıla Konseri 5 Eylül 2026 CerModern YAKINDA",
+    "title": "4 Sıla Konseri 5 Eylül 2026 CerModern 1250 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
     "category": "concert",
     "matched_names": [
@@ -125,6 +125,17 @@
     ],
     "sale_status": "on_sale",
     "site": "biletinial",
+    "notified": true
+  },
+  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en": {
+    "title": "mor ve ötesi Etkinlikleri",
+    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
     "notified": true
   },
   "https://biletinial.com/tr-tr/muzik/sila": {
