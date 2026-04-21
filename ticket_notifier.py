@@ -15,6 +15,7 @@ ARTIST_KEYWORDS = [
     "Sıla",
     "Derya Bedavacı",
     "Mor ve Ötesi",
+    "Ayta Sözeri",
 ]
 
 TEAM_KEYWORDS = [
@@ -44,6 +45,8 @@ SEARCH_PAGES = [
     "https://biletinial.com/tr-tr",
     "https://www.bubilet.com.tr",
     "https://www.biletix.com",
+    "https://www.passo.com.tr/tr",
+    "https://www.passo.com.tr/tr/kategori/muzik-konser-festival-biletleri/8615",
 ]
 
 ARTIST_PAGE_PATTERNS = {
@@ -55,8 +58,12 @@ ARTIST_PAGE_PATTERNS = {
         "https://biletinial.com/tr-tr/muzik/{slug}",
     ],
     "biletix": [
-        "https://www.biletix.com/artist/54/TURKIYE/tr/{slug}",
         "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr/{slug}",
+        "https://www.biletix.com/artist/54/TURKIYE/tr/{slug}",
+    ],
+    "passo": [
+        "https://www.passo.com.tr/tr/etkinlik/{slug}",
+        "https://www.passo.com.tr/en/event/{slug}",
     ],
 }
 
@@ -68,15 +75,24 @@ SITE_RULES = {
             r"\bbiletler satışta\b",
             r"\bbiletleri satışta\b",
             r"\bsatışta\b",
+            r"\bbilet al\b",
+            r"\bsepete ekle\b",
             r"\bsepet\b",
             r"\bsepetim\b",
             r"\bşimdi satışta\b",
             r"\bhemen satışta\b",
-            r"\b₺\b.*\bbilet",
+            r"\b₺\b",
+            r"\btl\b",
         ],
-        "off_sale_patterns": [
+        "upcoming_patterns": [
             r"\byakında satışta\b",
             r"\byakında\b",
+            r"\bçok yakında\b",
+            r"\bsatış yakında\b",
+            r"\b\d{1,2}:\d{2}.*satışta\b",
+            r"\bsaat \d{1,2}:\d{2}.*satışta\b",
+        ],
+        "off_sale_patterns": [
             r"\btükendi\b",
             r"\bsold out\b",
             r"\bnot available\b",
@@ -94,13 +110,19 @@ SITE_RULES = {
             r"\bbilet al\b",
             r"\bsatın al\b",
             r"\bsepete ekle\b",
+            r"\bhemen al\b",
             r"\bson \d+ bilet\b",
-            r"\b\d+[.,]?\d*\s*₺.*bilet",
+            r"\b₺\b",
+            r"\btl\b",
             r"\bden başlayan fiyatlarla\b",
+        ],
+        "upcoming_patterns": [
+            r"\byakında\b",
+            r"\bçok yakında\b",
+            r"\bsatış yakında\b",
         ],
         "off_sale_patterns": [
             r"\btükendi\b",
-            r"\byakında\b",
             r"\bsatışta değil\b",
             r"\bcurrently unavailable\b",
         ],
@@ -114,11 +136,18 @@ SITE_RULES = {
     },
     "biletix": {
         "on_sale_patterns": [
-            r"\bbiletix\b.*\betkinlik",
-            r"\betkinlik takvimi\b",
             r"\bbilet\b",
             r"\bsatın al\b",
             r"\bbuy\b",
+            r"\bavailable\b",
+            r"\b₺\b",
+            r"\btl\b",
+            r"\betkinlik takvimi\b",
+        ],
+        "upcoming_patterns": [
+            r"\byakında\b",
+            r"\bçok yakında\b",
+            r"\bsatış yakında\b",
         ],
         "off_sale_patterns": [
             r"\btükendi\b",
@@ -131,7 +160,41 @@ SITE_RULES = {
             "/etkinlik-grup/",
         ],
     },
+    "passo": {
+        "on_sale_patterns": [
+            r"\bsatışta\b",
+            r"\bbiletleri passo'da satışta\b",
+            r"\bbiletleri satışta\b",
+            r"\bbilet\b",
+            r"\bsatın al\b",
+            r"\bgenel satış\b",
+            r"\bdetaylı incele\b",
+            r"\b₺\b",
+            r"\btl\b",
+            r"\betkinlik takvimi\b",
+        ],
+        "upcoming_patterns": [
+            r"\byakında\b",
+            r"\bçok yakında\b",
+            r"\bsatış yakında\b",
+            r"\b\d{1,2}[.:]\d{2}'?da satışta\b",
+            r"\bgenel satış .* başlar\b",
+            r"\bcuma \d{1,2}[.:]\d{2}'?da satışta\b",
+        ],
+        "off_sale_patterns": [
+            r"\btükendi\b",
+            r"\bsold out\b",
+            r"\bcurrently unavailable\b",
+        ],
+        "event_link_hints": [
+            "/tr/etkinlik/",
+            "/en/event/",
+            "/tr/mekan/",
+            "/tr/kategori/",
+        ],
+    },
 }
+
 
 def slugify(name: str) -> str:
     repl = {
@@ -151,6 +214,7 @@ def slugify(name: str) -> str:
     name = re.sub(r"-+", "-", name)
     return name.strip("-")
 
+
 def detect_site(url: str) -> str:
     host = urlparse(url).netloc.lower()
     if "bubilet.com.tr" in host:
@@ -159,7 +223,10 @@ def detect_site(url: str) -> str:
         return "biletinial"
     if "biletix.com" in host:
         return "biletix"
+    if "passo.com.tr" in host:
+        return "passo"
     return "unknown"
+
 
 def load_state():
     if not os.path.exists(STATE_FILE):
@@ -171,9 +238,11 @@ def load_state():
     except Exception:
         return {}
 
+
 def save_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
+
 
 def send_email(subject, body):
     smtp_host = os.getenv("SMTP_HOST")
@@ -194,8 +263,10 @@ def send_email(subject, body):
         server.login(smtp_user, smtp_pass)
         server.sendmail(smtp_user, [mail_to], msg.as_string())
 
+
 def normalize_text(text):
     return " ".join(text.split()).strip()
+
 
 def fetch(url):
     try:
@@ -205,24 +276,29 @@ def fetch(url):
     except Exception:
         return ""
 
+
 def site_event_link_hints(site: str):
     return SITE_RULES.get(site, {}).get("event_link_hints", [])
+
 
 def looks_like_event_link(url: str, site: str) -> bool:
     url_lower = url.lower()
     return any(h in url_lower for h in site_event_link_hints(site))
 
+
 def artist_seed_urls():
     urls = []
     for artist in ARTIST_KEYWORDS:
         slug = slugify(artist)
-        for site, patterns in ARTIST_PAGE_PATTERNS.items():
+        for _, patterns in ARTIST_PAGE_PATTERNS.items():
             for pattern in patterns:
                 urls.append(pattern.format(slug=slug))
     return urls
 
+
 def base_and_artist_pages():
     return SEARCH_PAGES + artist_seed_urls()
+
 
 def find_candidate_links(page_url, html):
     site = detect_site(page_url)
@@ -245,7 +321,6 @@ def find_candidate_links(page_url, html):
             continue
 
         if not looks_like_event_link(full_url, site):
-            # başlıkta birebir eşleşme varsa yine al
             if not text:
                 continue
 
@@ -270,25 +345,31 @@ def find_candidate_links(page_url, html):
 
     return list(dedup.values())
 
+
 def detect_sale_status(html, site):
     text = BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
     text = normalize_text(text).lower()
 
     rules = SITE_RULES.get(site, {})
     on_patterns = rules.get("on_sale_patterns", [])
+    upcoming_patterns = rules.get("upcoming_patterns", [])
     off_patterns = rules.get("off_sale_patterns", [])
 
     on_hit = any(re.search(p, text, re.IGNORECASE) for p in on_patterns)
+    upcoming_hit = any(re.search(p, text, re.IGNORECASE) for p in upcoming_patterns)
     off_hit = any(re.search(p, text, re.IGNORECASE) for p in off_patterns)
 
-    if on_hit and not off_hit:
-        return "on_sale"
     if off_hit and not on_hit:
         return "off_sale"
-    if on_hit and off_hit:
-        # satış ifadesi varsa satışta kabul et
+
+    if upcoming_hit and not on_hit:
+        return "upcoming"
+
+    if on_hit:
         return "on_sale"
+
     return "unknown"
+
 
 def detect_category(page_text, candidate):
     text_lower = page_text.lower()
@@ -312,6 +393,7 @@ def detect_category(page_text, candidate):
         return "sports", matched_teams
 
     return None, []
+
 
 def inspect_event(candidate):
     html = fetch(candidate["url"])
@@ -342,27 +424,48 @@ def inspect_event(candidate):
         "source_page": candidate["source_page"],
     }
 
+
 def build_key(item):
     return item["url"]
 
-def should_notify(old_record, new_record):
+
+def should_notify_upcoming(old_record, new_record):
+    if new_record["sale_status"] != "upcoming":
+        return False
+
+    if old_record is None:
+        return True
+
+    already_notified = old_record.get("notified_upcoming", False)
+    old_status = old_record.get("sale_status", "unknown")
+
+    if already_notified:
+        return False
+
+    return old_status != "upcoming"
+
+
+def should_notify_on_sale(old_record, new_record):
     if new_record["sale_status"] != "on_sale":
         return False
 
     if old_record is None:
         return True
 
-    if old_record.get("notified", False):
-        return False
-
     old_status = old_record.get("sale_status", "unknown")
-    return old_status != "on_sale"
+    already_notified = old_record.get("notified_on_sale", False)
 
-def group_notifications(notifications):
+    if old_status != "on_sale" and not already_notified:
+        return True
+
+    return False
+
+
+def group_notifications(items):
     concerts = []
     sports = []
 
-    for item in notifications:
+    for item in items:
         if item["category"] == "concert":
             concerts.append(item)
         elif item["category"] == "sports":
@@ -370,8 +473,9 @@ def group_notifications(notifications):
 
     return concerts, sports
 
+
 def build_mail_body(items, label):
-    lines = [f"{label} için yeni satış bildirimi:\n"]
+    lines = [f"{label} için bildirim:\n"]
 
     for i, item in enumerate(items, start=1):
         lines.append(f"{i}. Başlık: {item['title']}")
@@ -383,10 +487,12 @@ def build_mail_body(items, label):
 
     return "\n".join(lines)
 
+
 def main():
     previous_state = load_state()
     current_state = {}
-    notifications = []
+    upcoming_notifications = []
+    on_sale_notifications = []
 
     all_candidates = []
     for page in base_and_artist_pages():
@@ -410,9 +516,10 @@ def main():
             continue
 
         key = build_key(inspected)
-        old_record = previous_state.get(key)
+        old_record = previous_state.get(key, {})
 
-        notify_now = should_notify(old_record, inspected)
+        notify_upcoming = should_notify_upcoming(old_record, inspected)
+        notify_on_sale = should_notify_on_sale(old_record, inspected)
 
         current_state[key] = {
             "title": inspected["title"],
@@ -421,34 +528,56 @@ def main():
             "matched_names": inspected["matched_names"],
             "sale_status": inspected["sale_status"],
             "site": inspected["site"],
-            "notified": bool(old_record.get("notified")) if old_record else False,
+            "notified_upcoming": old_record.get("notified_upcoming", False),
+            "notified_on_sale": old_record.get("notified_on_sale", False),
         }
 
-        if notify_now:
-            notifications.append(inspected)
-            current_state[key]["notified"] = True
+        if notify_upcoming:
+            upcoming_notifications.append(inspected)
+            current_state[key]["notified_upcoming"] = True
+
+        if notify_on_sale:
+            on_sale_notifications.append(inspected)
+            current_state[key]["notified_on_sale"] = True
 
     save_state(current_state)
 
-    if not notifications:
-        print("Yeni satış bildirimi yok.")
-        return
+    if upcoming_notifications:
+        concerts, sports = group_notifications(upcoming_notifications)
 
-    concerts, sports = group_notifications(notifications)
+        if concerts:
+            send_email(
+                "Yakında satışta olan konser bulundu",
+                build_mail_body(concerts, "Konser / Yakında Satışta")
+            )
+        if sports:
+            send_email(
+                "Yakında satışta olan spor etkinliği bulundu",
+                build_mail_body(sports, "Spor / Yakında Satışta")
+            )
 
-    if concerts:
-        send_email(
-            "Yeni konser bileti satışta",
-            build_mail_body(concerts, "Konser")
+    if on_sale_notifications:
+        concerts, sports = group_notifications(on_sale_notifications)
+
+        if concerts:
+            send_email(
+                "Yeni konser bileti satışta",
+                build_mail_body(concerts, "Konser / Satışta")
+            )
+        if sports:
+            send_email(
+                "Yeni spor bileti satışta",
+                build_mail_body(sports, "Spor / Voleybol / Satışta")
+            )
+
+    if not upcoming_notifications and not on_sale_notifications:
+        print("Yeni bildirim yok.")
+    else:
+        print(
+            f"Yakında satışta: {len(upcoming_notifications)} | "
+            f"Satışta: {len(on_sale_notifications)}"
         )
 
-    if sports:
-        send_email(
-            "Yeni spor bileti satışta",
-            build_mail_body(sports, "Spor / Voleybol")
-        )
-
-    print(f"Mail gönderildi. Toplam bildirim: {len(notifications)}")
 
 if __name__ == "__main__":
     main()
