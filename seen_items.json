@@ -92,7 +92,7 @@
     "notified_on_sale": true
   },
   "https://www.bubilet.com.tr/antalya/etkinlik/-mabel-matiz--": {
-    "title": "10 Mabel Matiz 13 Mayıs 2026 Antalya Açıkhava 2000 ₺",
+    "title": "10 Mabel Matiz 13 Mayıs 2026 Antalya Açıkhava 1650 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/-mabel-matiz--",
     "category": "concert",
     "matched_names": [
@@ -127,18 +127,6 @@
     "site": "biletinial",
     "notified_upcoming": false,
     "notified_on_sale": false
-  },
-  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en": {
-    "title": "mor ve ötesi Etkinlikleri",
-    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
-    "notified_upcoming": false,
-    "notified_on_sale": true
   },
   "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr": {
     "title": "mor ve ötesi Etkinlikleri",
@@ -194,6 +182,18 @@
     "category": "concert",
     "matched_names": [
       "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/profile/derya-bedavac": {
+    "title": "Derya Bedavacı",
+    "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
     ],
     "sale_status": "on_sale",
     "site": "biletinial",
