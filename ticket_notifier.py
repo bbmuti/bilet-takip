@@ -359,17 +359,21 @@ def detect_sale_status(html, site):
     upcoming_hit = any(re.search(p, text, re.IGNORECASE) for p in upcoming_patterns)
     off_hit = any(re.search(p, text, re.IGNORECASE) for p in off_patterns)
 
+    # 1) Tükendi / satışta değil
     if off_hit and not on_hit:
         return "off_sale"
 
-    if upcoming_hit and not on_hit:
+    # 2) Yakında satışta öncelikli olmalı
+    # Sayfada fiyat veya "bilet" kelimesi olsa bile
+    # "yakında satışta" varsa önce upcoming kabul et
+    if upcoming_hit:
         return "upcoming"
 
+    # 3) Gerçek satış sinyali
     if on_hit:
         return "on_sale"
 
     return "unknown"
-
 
 def detect_category(page_text, candidate):
     text_lower = page_text.lower()
