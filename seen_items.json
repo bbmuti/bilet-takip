@@ -127,17 +127,6 @@
     "site": "biletinial",
     "notified": true
   },
-  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en": {
-    "title": "mor ve ötesi Etkinlikleri",
-    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
-    "notified": true
-  },
   "https://biletinial.com/tr-tr/muzik/sila": {
     "title": "Sıla",
     "url": "https://biletinial.com/tr-tr/muzik/sila",
