@@ -176,6 +176,18 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en": {
+    "title": "mor ve ötesi Etkinlikleri",
+    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "https://biletinial.com/tr-tr/profile/derya-bedavac": {
     "title": "Derya Bedavacı",
     "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
