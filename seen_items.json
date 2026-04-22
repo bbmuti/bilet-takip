@@ -77,6 +77,34 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "https://www.bubilet.com.tr/bursa/etkinlik/-mabel-matiz-konseri-": {
+    "title": "4 Mabel Matiz 13 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu YAKINDA",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mabel-matiz-konseri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-": {
+    "title": "5 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu YAKINDA",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
   "https://biletinial.com/tr-tr/profile/hadise": {
     "title": "Hadise",
     "url": "https://biletinial.com/tr-tr/profile/hadise",
