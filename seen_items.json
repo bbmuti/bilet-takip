@@ -40,24 +40,11 @@
     "notified_on_sale": false
   },
   "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri": {
-    "title": "8 Mabel Matiz 8 Mayıs 2026, 9 Mayıs 2026 Kültürpark Açıkhava Tiyatrosu 2400 ₺",
+    "title": "10 Mabel Matiz 8 Mayıs 2026, 9 Mayıs 2026 Kültürpark Açıkhava Tiyatrosu 2400 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
       "Mabel Matiz"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-": {
-    "title": "10 mor ve ötesi 16 Mayıs 2026 İzmir Arena 1249 ₺",
-    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi",
-      "Sıla"
     ],
     "sale_status": "on_sale",
     "site": "bubilet",
