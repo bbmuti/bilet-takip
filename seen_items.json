@@ -80,6 +80,30 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
+  "https://biletinial.com/tr-tr/profile/hadise": {
+    "title": "Hadise",
+    "url": "https://biletinial.com/tr-tr/profile/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/crew/hadise": {
+    "title": "Tümünü Gör",
+    "url": "https://biletinial.com/tr-tr/crew/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Hadise"
+    ],
+    "sale_status": "unknown",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": false
+  },
   "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr": {
     "title": "mor ve ötesi Etkinlikleri",
     "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
@@ -89,6 +113,102 @@
     ],
     "sale_status": "on_sale",
     "site": "biletix",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/muzik/mabel-matiz-if": {
+    "title": "Mabel Matiz",
+    "url": "https://biletinial.com/tr-tr/muzik/mabel-matiz-if",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/muzik/sila": {
+    "title": "Sıla",
+    "url": "https://biletinial.com/tr-tr/muzik/sila",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/muzik/sila-jj": {
+    "title": "Sıla",
+    "url": "https://biletinial.com/tr-tr/muzik/sila-jj",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/profile/sila": {
+    "title": "Sıla",
+    "url": "https://biletinial.com/tr-tr/profile/sila",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/profile/derya-bedavac": {
+    "title": "Derya Bedavacı",
+    "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/muzik/mor-ve-otesi": {
+    "title": "mor ve ötesi - akustik",
+    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/muzik/mor-ve-otesi-konseri": {
+    "title": "mor ve ötesi",
+    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "https://biletinial.com/tr-tr/profile/mor-ve-otesi": {
+    "title": "Mor ve Ötesi",
+    "url": "https://biletinial.com/tr-tr/profile/mor-ve-otesi",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
     "notified_upcoming": false,
     "notified_on_sale": true
   }
