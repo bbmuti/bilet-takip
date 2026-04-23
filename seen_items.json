@@ -1,6 +1,19 @@
 {
+  "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-": {
+    "title": "3 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 950 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": true,
+    "notified_on_sale": true
+  },
   "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-": {
-    "title": "5 Sıla Konseri 5 Eylül 2026 CerModern 1250 ₺",
+    "title": "6 Sıla Konseri 5 Eylül 2026 CerModern 1250 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
     "category": "concert",
     "matched_names": [
@@ -14,7 +27,7 @@
     "notified_on_sale": true
   },
   "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-": {
-    "title": "6 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 1350 ₺",
+    "title": "7 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 1350 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
     "category": "concert",
     "matched_names": [
@@ -25,19 +38,6 @@
     "site": "bubilet",
     "notified_upcoming": false,
     "notified_on_sale": true
-  },
-  "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-": {
-    "title": "9 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi YAKINDA",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı"
-    ],
-    "sale_status": "upcoming",
-    "site": "bubilet",
-    "notified_upcoming": true,
-    "notified_on_sale": false
   },
   "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-": {
     "title": "9 Melike Şahin 20 Haziran 2026 Antalya Açıkhava 3630 ₺",
