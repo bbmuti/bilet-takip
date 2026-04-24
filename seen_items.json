@@ -76,10 +76,10 @@
       "Mabel Matiz",
       "Sıla"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_on_sale": true
   },
   "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-": {
     "title": "5 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu YAKINDA",
@@ -90,10 +90,10 @@
       "Mabel Matiz",
       "Sıla"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_on_sale": true
   },
   "https://biletinial.com/tr-tr/profile/hadise": {
     "title": "Hadise",
