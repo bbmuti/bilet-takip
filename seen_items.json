@@ -205,6 +205,18 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "https://biletinial.com/tr-tr/muzik/mor-ve-otesi-konseri": {
+    "title": "mor ve ötesi",
+    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "https://biletinial.com/tr-tr/profile/mor-ve-otesi": {
     "title": "Mor ve Ötesi",
     "url": "https://biletinial.com/tr-tr/profile/mor-ve-otesi",
