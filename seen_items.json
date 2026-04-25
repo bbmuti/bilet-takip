@@ -40,7 +40,7 @@
     "notified_on_sale": true
   },
   "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya": {
-    "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava YAKINDA",
+    "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 1000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -48,10 +48,10 @@
       "Melike Şahin",
       "Mor ve Ötesi"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_on_sale": true
   },
   "https://www.bubilet.com.tr/antalya/etkinlik/melike-sahin-": {
     "title": "10 Melike Şahin 20 Haziran 2026 Antalya Açıkhava 3630 ₺",
@@ -181,6 +181,18 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en": {
+    "title": "mor ve ötesi Etkinlikleri",
+    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "https://biletinial.com/tr-tr/profile/derya-bedavac": {
     "title": "Derya Bedavacı",
     "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
@@ -226,18 +238,6 @@
     ],
     "sale_status": "on_sale",
     "site": "biletinial",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en": {
-    "title": "mor ve ötesi Etkinlikleri",
-    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
     "notified_upcoming": false,
     "notified_on_sale": true
   }
