@@ -39,6 +39,20 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri": {
+    "title": "10 Melike Şahin 17 Temmuz 2026 CerModern 1500 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/melike-sahin-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya": {
     "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 1000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
