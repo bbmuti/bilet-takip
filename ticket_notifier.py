@@ -523,6 +523,7 @@ def inspect_event(candidate):
         "venue": venue,
     }
 
+
 def build_key(item):
     names = "-".join([clean_key_part(x) for x in item.get("matched_names", [])])
     category = clean_key_part(item.get("category", "unknown"))
@@ -579,11 +580,32 @@ def group_notifications(items):
     return concerts, sports
 
 
+def make_clean_title(item):
+    names = ", ".join(item.get("matched_names", [])) or "Bilinmiyor"
+    city = item.get("city", "Bilinmiyor")
+    venue = item.get("venue", "Bilinmiyor")
+    date = item.get("date", "Bilinmiyor")
+
+    parts = [names]
+
+    if city != "Bilinmiyor":
+        parts.append(city)
+
+    if venue != "Bilinmiyor":
+        parts.append(venue)
+
+    if date != "Bilinmiyor":
+        parts.append(date)
+
+    return " | ".join(parts)
+
+
 def build_mail_body(items, label):
     lines = [f"{label} için bildirim:\n"]
 
     for i, item in enumerate(items, start=1):
-        lines.append(f"{i}. Başlık: {item['title']}")
+        lines.append(f"{i}. Başlık: {make_clean_title(item)}")
+        lines.append(f"Site başlığı: {item['title']}")
         lines.append(f"Eşleşen isimler: {', '.join(item['matched_names'])}")
         lines.append(f"Şehir: {item.get('city', 'Bilinmiyor')}")
         lines.append(f"Mekan: {item.get('venue', 'Bilinmiyor')}")
