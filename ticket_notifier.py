@@ -35,6 +35,37 @@ VOLLEYBALL_HINTS = [
     "efeler ligi",
 ]
 
+CITY_NAMES = [
+    "İstanbul", "Ankara", "İzmir", "Antalya", "Bursa", "Eskişehir",
+    "Konya", "Adana", "Mersin", "Kocaeli", "Samsun", "Trabzon",
+    "Kayseri", "Gaziantep", "Diyarbakır", "Muğla", "Aydın", "Denizli"
+]
+
+KNOWN_VENUES = [
+    "Volkswagen Arena",
+    "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "KüçükÇiftlik Park",
+    "Maximum Uniq Açıkhava",
+    "Maximum Uniq Hall",
+    "Zorlu PSM",
+    "Jolly Joker",
+    "IF Performance Hall",
+    "CerModern",
+    "Kültürpark Açıkhava Tiyatrosu",
+    "Antalya Açıkhava",
+    "VakıfBank Spor Sarayı",
+    "Ülker Spor ve Etkinlik Salonu",
+]
+
+DATE_PATTERNS = [
+    r"\b\d{1,2}\s+(Ocak|Şubat|Mart|Nisan|Mayıs|Haziran|Temmuz|Ağustos|Eylül|Ekim|Kasım|Aralık)\s+\d{4}\b",
+    r"\b\d{1,2}[./-]\d{1,2}[./-]\d{4}\b",
+]
+
+TIME_PATTERNS = [
+    r"\b\d{1,2}[:.]\d{2}\b"
+]
+
 STATE_FILE = "seen_items.json"
 
 HEADERS = {
@@ -215,6 +246,16 @@ def slugify(name: str) -> str:
     return name.strip("-")
 
 
+def clean_key_part(value):
+    value = value or "bilinmiyor"
+    value = slugify(str(value))
+    return value or "bilinmiyor"
+
+
+def normalize_text(text):
+    return " ".join(text.split()).strip()
+
+
 def detect_site(url: str) -> str:
     host = urlparse(url).netloc.lower()
     if "bubilet.com.tr" in host:
@@ -264,10 +305,6 @@ def send_email(subject, body):
         server.sendmail(smtp_user, [mail_to], msg.as_string())
 
 
-def normalize_text(text):
-    return " ".join(text.split()).strip()
-
-
 def fetch(url):
     try:
         r = requests.get(url, headers=HEADERS, timeout=25)
@@ -298,6 +335,47 @@ def artist_seed_urls():
 
 def base_and_artist_pages():
     return SEARCH_PAGES + artist_seed_urls()
+
+
+def extract_city(text, url=""):
+    combined = f"{text} {url}".lower()
+
+    for city in CITY_NAMES:
+        if city.lower() in combined:
+            return city
+
+    for city in CITY_NAMES:
+        city_slug = slugify(city)
+        if f"/{city_slug}/" in combined or f"-{city_slug}" in combined:
+            return city
+
+    return "Bilinmiyor"
+
+
+def extract_date(text):
+    for pattern in DATE_PATTERNS:
+        match = re.search(pattern, text, re.IGNORECASE)
+        if match:
+            return match.group(0)
+    return "Bilinmiyor"
+
+
+def extract_time(text):
+    for pattern in TIME_PATTERNS:
+        match = re.search(pattern, text, re.IGNORECASE)
+        if match:
+            return match.group(0)
+    return "Bilinmiyor"
+
+
+def extract_venue(text):
+    text_lower = text.lower()
+
+    for venue in KNOWN_VENUES:
+        if venue.lower() in text_lower:
+            return venue
+
+    return "Bilinmiyor"
 
 
 def find_candidate_links(page_url, html):
@@ -359,21 +437,17 @@ def detect_sale_status(html, site):
     upcoming_hit = any(re.search(p, text, re.IGNORECASE) for p in upcoming_patterns)
     off_hit = any(re.search(p, text, re.IGNORECASE) for p in off_patterns)
 
-    # 1) Tükendi / satışta değil
     if off_hit and not on_hit:
         return "off_sale"
 
-    # 2) Yakında satışta öncelikli olmalı
-    # Sayfada fiyat veya "bilet" kelimesi olsa bile
-    # "yakında satışta" varsa önce upcoming kabul et
     if upcoming_hit:
         return "upcoming"
 
-    # 3) Gerçek satış sinyali
     if on_hit:
         return "on_sale"
 
     return "unknown"
+
 
 def detect_category(page_text, candidate):
     text_lower = page_text.lower()
@@ -418,6 +492,11 @@ def inspect_event(candidate):
         if soup.title and soup.title.text:
             title = normalize_text(soup.title.text)
 
+    city = extract_city(page_text, candidate["url"])
+    date = extract_date(page_text)
+    time_value = extract_time(page_text)
+    venue = extract_venue(page_text)
+
     return {
         "title": title,
         "url": candidate["url"],
@@ -426,11 +505,22 @@ def inspect_event(candidate):
         "sale_status": sale_status,
         "site": site,
         "source_page": candidate["source_page"],
+        "city": city,
+        "date": date,
+        "time": time_value,
+        "venue": venue,
     }
 
 
 def build_key(item):
-    return item["url"]
+    names = "-".join([clean_key_part(x) for x in item.get("matched_names", [])])
+    category = clean_key_part(item.get("category", "unknown"))
+    city = clean_key_part(item.get("city", "unknown"))
+    venue = clean_key_part(item.get("venue", "unknown"))
+    date = clean_key_part(item.get("date", "unknown"))
+    title = clean_key_part(item.get("title", "unknown"))
+
+    return f"{category}|{names}|{city}|{venue}|{date}|{title}"
 
 
 def should_notify_upcoming(old_record, new_record):
@@ -484,6 +574,10 @@ def build_mail_body(items, label):
     for i, item in enumerate(items, start=1):
         lines.append(f"{i}. Başlık: {item['title']}")
         lines.append(f"Eşleşen isimler: {', '.join(item['matched_names'])}")
+        lines.append(f"Şehir: {item.get('city', 'Bilinmiyor')}")
+        lines.append(f"Mekan: {item.get('venue', 'Bilinmiyor')}")
+        lines.append(f"Tarih: {item.get('date', 'Bilinmiyor')}")
+        lines.append(f"Saat: {item.get('time', 'Bilinmiyor')}")
         lines.append(f"Site: {item['site']}")
         lines.append(f"Durum: {item['sale_status']}")
         lines.append(f"Link: {item['url']}")
@@ -532,6 +626,10 @@ def main():
             "matched_names": inspected["matched_names"],
             "sale_status": inspected["sale_status"],
             "site": inspected["site"],
+            "city": inspected["city"],
+            "date": inspected["date"],
+            "time": inspected["time"],
+            "venue": inspected["venue"],
             "notified_upcoming": old_record.get("notified_upcoming", False),
             "notified_on_sale": old_record.get("notified_on_sale", False),
         }
