@@ -344,29 +344,31 @@ def extract_city(text, url=""):
         if city.lower() in combined:
             return city
 
-    for city in CITY_NAMES:
-        city_slug = slugify(city)
-        if f"/{city_slug}/" in combined or f"-{city_slug}" in combined:
-            return city
-
     return "Bilinmiyor"
 
 
 def extract_date(text):
     for pattern in DATE_PATTERNS:
-        match = re.search(pattern, text, re.IGNORECASE)
+        match = re.search(pattern, text)
+
         if match:
-            return match.group(0)
+            value = match.group(0)
+
+            if "0000" in value:
+                continue
+
+            return value
+
     return "Bilinmiyor"
 
 
 def extract_time(text):
-    for pattern in TIME_PATTERNS:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            return match.group(0)
-    return "Bilinmiyor"
+    match = re.search(r"\b([01]?\d|2[0-3])[:.][0-5]\d\b", text)
 
+    if match:
+        return match.group(0)
+
+    return "Bilinmiyor"
 
 def extract_venue(text):
     text_lower = text.lower()
@@ -383,24 +385,33 @@ def find_candidate_links(page_url, html):
     soup = BeautifulSoup(html, "html.parser")
     results = []
 
-    for a in soup.find_all("a", href=True):
+    links = soup.find_all("a", href=True)
+
+    for a in links:
         href = a.get("href", "").strip()
-        text = normalize_text(a.get_text(" ", strip=True))
         if not href:
             continue
 
         full_url = urljoin(page_url, href)
+
+        text = normalize_text(a.get_text(" ", strip=True))
         combined = f"{text} {href}"
 
-        matched_artists = [kw for kw in ARTIST_KEYWORDS if kw.lower() in combined.lower()]
-        matched_teams = [kw for kw in TEAM_KEYWORDS if kw.lower() in combined.lower()]
+        matched_artists = [
+            kw for kw in ARTIST_KEYWORDS
+            if kw.lower() in combined.lower()
+        ]
+
+        matched_teams = [
+            kw for kw in TEAM_KEYWORDS
+            if kw.lower() in combined.lower()
+        ]
 
         if not matched_artists and not matched_teams:
             continue
 
         if not looks_like_event_link(full_url, site):
-            if not text:
-                continue
+            continue
 
         results.append({
             "title": text,
@@ -412,14 +423,10 @@ def find_candidate_links(page_url, html):
         })
 
     dedup = {}
+
     for item in results:
-        url = item["url"]
-        if url not in dedup:
-            dedup[url] = item
-        else:
-            old = dedup[url]
-            old["matched_artists"] = sorted(set(old["matched_artists"] + item["matched_artists"]))
-            old["matched_teams"] = sorted(set(old["matched_teams"] + item["matched_teams"]))
+        if item["url"] not in dedup:
+            dedup[item["url"]] = item
 
     return list(dedup.values())
 
@@ -481,6 +488,12 @@ def inspect_event(candidate):
     site = candidate["site"] if candidate["site"] != "unknown" else detect_site(candidate["url"])
     soup = BeautifulSoup(html, "html.parser")
     page_text = normalize_text(soup.get_text(" ", strip=True))
+    title_text = title if title else ""
+    short_text = soup.get_text(" ", strip=True)[:1000]
+    city = extract_city(title_text + short_text, candidate["url"])
+    date = extract_date(title_text + short_text)
+    time_value = extract_time(title_text + short_text)
+    venue = extract_venue(title_text + short_text)
     sale_status = detect_sale_status(html, site)
 
     category, matched_names = detect_category(page_text, candidate)
@@ -510,7 +523,6 @@ def inspect_event(candidate):
         "time": time_value,
         "venue": venue,
     }
-
 
 def build_key(item):
     names = "-".join([clean_key_part(x) for x in item.get("matched_names", [])])
