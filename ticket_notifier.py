@@ -488,27 +488,26 @@ def inspect_event(candidate):
     site = candidate["site"] if candidate["site"] != "unknown" else detect_site(candidate["url"])
     soup = BeautifulSoup(html, "html.parser")
     page_text = normalize_text(soup.get_text(" ", strip=True))
-    title_text = title if title else ""
-    short_text = soup.get_text(" ", strip=True)[:1000]
-    city = extract_city(title_text + short_text, candidate["url"])
-    date = extract_date(title_text + short_text)
-    time_value = extract_time(title_text + short_text)
-    venue = extract_venue(title_text + short_text)
     sale_status = detect_sale_status(html, site)
 
     category, matched_names = detect_category(page_text, candidate)
     if not category or not matched_names:
         return None
 
-    title = candidate["title"]
+    title = candidate.get("title", "")
     if not title or len(title) < 3:
         if soup.title and soup.title.text:
             title = normalize_text(soup.title.text)
+        else:
+            title = "Bilinmiyor"
 
-    city = extract_city(page_text, candidate["url"])
-    date = extract_date(page_text)
-    time_value = extract_time(page_text)
-    venue = extract_venue(page_text)
+    title_text = title if title else ""
+    short_text = normalize_text(soup.get_text(" ", strip=True)[:1000])
+
+    city = extract_city(title_text + " " + short_text, candidate["url"])
+    date = extract_date(title_text + " " + short_text)
+    time_value = extract_time(title_text + " " + short_text)
+    venue = extract_venue(title_text + " " + short_text)
 
     return {
         "title": title,
