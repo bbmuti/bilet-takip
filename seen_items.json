@@ -87,8 +87,27 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|2-mabel-matiz-13-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
-    "title": "2 Mabel Matiz 13 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|1-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-1800": {
+    "title": "1 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1800 ₺",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "19 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|3-mabel-matiz-13-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
+    "title": "3 Mabel Matiz 13 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -106,8 +125,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|7-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350": {
-    "title": "7 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺",
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|8-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350": {
+    "title": "8 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
     "category": "concert",
     "matched_names": [
@@ -195,6 +214,22 @@
     "category": "concert",
     "matched_names": [
       "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-akustik": {
+    "title": "mor ve ötesi - akustik",
+    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
     ],
     "sale_status": "on_sale",
     "site": "biletinial",
