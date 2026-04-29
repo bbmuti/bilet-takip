@@ -1,9 +1,11 @@
 {
-  "concert|hadise|ankara|bilinmiyor|25-eylul-2026|2-hadise-25-eylul-2026-oran-acikhava-sahnesi-yakinda": {
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|2-hadise-25-eylul-2026-oran-acikhava-sahnesi-yakinda": {
     "title": "2 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi YAKINDA",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
     "category": "concert",
     "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
       "Hadise"
     ],
     "sale_status": "upcoming",
@@ -15,13 +17,14 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|ayta-sozeri-derya-bedavaci|ankara|bilinmiyor|31-temmuz-2026|6-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-950": {
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|6-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-950": {
     "title": "6 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 950 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
-      "Derya Bedavacı"
+      "Derya Bedavacı",
+      "Hadise"
     ],
     "sale_status": "on_sale",
     "site": "bubilet",
