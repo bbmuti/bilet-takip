@@ -51,6 +51,24 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mabel-matiz-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|7-mor-ve-otesi-14-agustos-2026-antalya-acikhava-1000": {
+    "title": "7 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 1000 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "14 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|1-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-1800": {
     "title": "1 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1800 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
