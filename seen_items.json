@@ -37,8 +37,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|6-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-950": {
-    "title": "6 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 950 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|8-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-950": {
+    "title": "8 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 950 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
@@ -52,24 +52,6 @@
     "date": "31 Temmuz 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mabel-matiz-melike-sahin-sila|ankara|cermodern|5-eylul-2026|10-sila-konseri-5-eylul-2026-cermodern-1250": {
-    "title": "10 Sıla Konseri 5 Eylül 2026 CerModern 1250 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/silakonseri-",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "5 Eylül 2026",
-    "time": "21:00",
-    "venue": "CerModern",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
@@ -124,25 +106,6 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "13 Eylül 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|10-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350": {
-    "title": "10 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Bursa",
-    "date": "6 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -222,22 +185,6 @@
     "sale_status": "on_sale",
     "site": "biletinial",
     "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
-    "title": "mor ve ötesi Etkinlikleri",
-    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
-    "city": "Ankara",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
