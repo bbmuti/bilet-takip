@@ -166,13 +166,13 @@
     "matched_names": [
       "Sıla"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "upcoming",
     "site": "biletinial",
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
-    "notified_upcoming": false,
+    "notified_upcoming": true,
     "notified_on_sale": true
   },
   "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
