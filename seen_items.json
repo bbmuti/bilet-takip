@@ -127,22 +127,6 @@
     "notified_upcoming": true,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
-    "title": "mor ve ötesi Etkinlikleri",
-    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/en",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
-    "city": "Ankara",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
     "title": "mor ve ötesi Etkinlikleri",
     "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
