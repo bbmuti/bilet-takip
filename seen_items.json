@@ -39,8 +39,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-sila|ankara|cermodern|19-temmuz-2026|4-mabel-matiz-19-temmuz-2026-cermodern-yakinda": {
-    "title": "4 Mabel Matiz 19 Temmuz 2026 CerModern YAKINDA",
+  "concert|mabel-matiz-melike-sahin-sila|ankara|cermodern|19-temmuz-2026|4-mabel-matiz-19-temmuz-2026-cermodern-1300": {
+    "title": "4 Mabel Matiz 19 Temmuz 2026 CerModern 1300 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mabel-matiz-",
     "category": "concert",
     "matched_names": [
@@ -48,14 +48,14 @@
       "Melike Şahin",
       "Sıla"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Ankara",
     "date": "19 Temmuz 2026",
     "time": "21:00",
     "venue": "CerModern",
-    "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_upcoming": false,
+    "notified_on_sale": true
   },
   "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|7-hadise-25-eylul-2026-oran-acikhava-sahnesi-yakinda": {
     "title": "7 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi YAKINDA",
