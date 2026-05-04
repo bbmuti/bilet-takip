@@ -1,6 +1,26 @@
 {
-  "concert|derya-bedavaci-mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|5-mayis-2026|3-derya-bedavaci-konseri-5-mayis-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1750": {
-    "title": "3 Derya Bedavacı Konseri 5 Mayıs 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1750 ₺",
+  "concert|derya-bedavaci-mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|5-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-yakinda": {
+    "title": "5 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu YAKINDA",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila-",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "30 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "concert|derya-bedavaci-mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|5-mayis-2026|7-derya-bedavaci-konseri-5-mayis-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2000": {
+    "title": "7 Derya Bedavacı Konseri 5 Mayıs 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2000 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/derya--bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -19,8 +39,26 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|2-hadise-25-eylul-2026-oran-acikhava-sahnesi-yakinda": {
-    "title": "2 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi YAKINDA",
+  "concert|mabel-matiz-melike-sahin-sila|ankara|cermodern|19-temmuz-2026|4-mabel-matiz-19-temmuz-2026-cermodern-yakinda": {
+    "title": "4 Mabel Matiz 19 Temmuz 2026 CerModern YAKINDA",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mabel-matiz-",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "19 Temmuz 2026",
+    "time": "21:00",
+    "venue": "CerModern",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|7-hadise-25-eylul-2026-oran-acikhava-sahnesi-yakinda": {
+    "title": "7 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi YAKINDA",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
     "category": "concert",
     "matched_names": [
@@ -37,8 +75,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|9-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-950": {
-    "title": "9 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 950 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|10-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-950": {
+    "title": "10 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 950 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
