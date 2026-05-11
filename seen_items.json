@@ -89,8 +89,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|2-mabel-matiz-13-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-3150": {
-    "title": "2 Mabel Matiz 13 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 3150 ₺",
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|2-mabel-matiz-13-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-tukendi": {
+    "title": "2 Mabel Matiz 13 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu TÜKENDİ",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -99,14 +99,14 @@
       "Melike Şahin",
       "Sıla"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "off_sale",
     "site": "bubilet",
     "city": "Bursa",
     "date": "13 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
-    "notified_on_sale": true
+    "notified_on_sale": false
   },
   "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise": {
     "title": "Hadise",
