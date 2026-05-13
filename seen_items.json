@@ -1,6 +1,6 @@
 {
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|9-hadise-25-eylul-2026-oran-acikhava-sahnesi-1350": {
-    "title": "9 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi 1350 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|10-hadise-25-eylul-2026-oran-acikhava-sahnesi-1350": {
+    "title": "10 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi 1350 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
     "category": "concert",
     "matched_names": [
@@ -136,6 +136,22 @@
     "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
     "notified_upcoming": true,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
+    "title": "Derya Bedavacı",
+    "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
     "notified_on_sale": true
   },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-akustik": {
