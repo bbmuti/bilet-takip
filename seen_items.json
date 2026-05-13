@@ -138,22 +138,6 @@
     "notified_upcoming": true,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
-    "title": "Derya Bedavacı",
-    "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-akustik": {
     "title": "mor ve ötesi - akustik",
     "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi",
