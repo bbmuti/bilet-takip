@@ -1,22 +1,4 @@
 {
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|10-hadise-25-eylul-2026-oran-acikhava-sahnesi-1350": {
-    "title": "10 Hadise 25 Eylül 2026 Oran Açıkhava Sahnesi 1350 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Hadise"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "25 Eylül 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|mor-ve-otesi-sila|izmir|bilinmiyor|16-mayis-2026|3-mor-ve-otesi-16-mayis-2026-izmir-arena-1499": {
     "title": "3 mor ve ötesi 16 Mayıs 2026 İzmir Arena 1499 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-",
@@ -71,22 +53,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise": {
-    "title": "Hadise",
-    "url": "https://biletinial.com/tr-tr/profile/hadise",
-    "category": "concert",
-    "matched_names": [
-      "Hadise"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": true
-  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
     "title": "mor ve ötesi Etkinlikleri",
     "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
@@ -96,70 +62,6 @@
     ],
     "sale_status": "on_sale",
     "site": "biletix",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
-    "title": "Sıla",
-    "url": "https://biletinial.com/tr-tr/profile/sila",
-    "category": "concert",
-    "matched_names": [
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
-    "title": "Derya Bedavacı",
-    "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-akustik": {
-    "title": "mor ve ötesi - akustik",
-    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi": {
-    "title": "Mor ve Ötesi",
-    "url": "https://biletinial.com/tr-tr/profile/mor-ve-otesi",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
