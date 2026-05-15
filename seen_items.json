@@ -137,22 +137,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-akustik": {
-    "title": "mor ve ötesi - akustik",
-    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi": {
     "title": "Mor ve Ötesi",
     "url": "https://biletinial.com/tr-tr/profile/mor-ve-otesi",
