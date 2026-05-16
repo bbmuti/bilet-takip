@@ -7,11 +7,11 @@
       "Mor ve Ötesi",
       "Sıla"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "site": "bubilet",
     "city": "İzmir",
     "date": "16 Mayıs 2026",
-    "time": "21:00",
+    "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
