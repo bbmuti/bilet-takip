@@ -1,20 +1,4 @@
 {
-  "concert|melike-sahin|istanbul|bilinmiyor|bilinmiyor|14-haziran-pazar-melike-sahin-konseri-izmir-bornova-asik-veysel-acikhava-tiyatrosu": {
-    "title": "14 Haziran Pazar Melike Şahin Konseri İzmir / Bornova Aşık Veysel Açıkhava Tiyatrosu",
-    "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-konseri-bkm",
-    "category": "concert",
-    "matched_names": [
-      "Melike Şahin"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|6-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2000": {
     "title": "6 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
@@ -32,8 +16,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|3-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-1800": {
-    "title": "3 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1800 ₺",
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|3-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-1400": {
+    "title": "3 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1400 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
     "category": "concert",
     "matched_names": [
@@ -52,8 +36,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|22-haziran-2026|4-mor-ve-otesi-akustik-22-haziran-2026-bursa-kulturpark-acikhava-tiyatrosu-1000": {
-    "title": "4 mor ve ötesi Akustik 22 Haziran 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1000 ₺",
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|22-haziran-2026|4-mor-ve-otesi-akustik-22-haziran-2026-bursa-kulturpark-acikhava-tiyatrosu-1750": {
+    "title": "4 mor ve ötesi Akustik 22 Haziran 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1750 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/mor-ve-otesi-akustik",
     "category": "concert",
     "matched_names": [
