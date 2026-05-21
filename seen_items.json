@@ -104,6 +104,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|6-haziran-mor-ve-otesi-satista-mimar-sinan-acik-hava-tiyatrosu-adana-satin-al": {
+    "title": "6 Haziran mor ve ötesi Satışta Mimar Sinan Açık Hava Tiyatrosu, Adana Satın Al",
+    "url": "https://www.biletix.com/etkinlik/5AMOR/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mabel-matiz|istanbul|bilinmiyor|bilinmiyor|mabel-matiz": {
     "title": "Mabel Matiz",
     "url": "https://biletinial.com/tr-tr/muzik/mabel-matiz-if",
