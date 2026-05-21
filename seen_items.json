@@ -104,6 +104,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mabel-matiz|istanbul|bilinmiyor|bilinmiyor|mabel-matiz": {
+    "title": "Mabel Matiz",
+    "url": "https://biletinial.com/tr-tr/muzik/mabel-matiz-if",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
     "title": "Sıla",
     "url": "https://biletinial.com/tr-tr/profile/sila",
