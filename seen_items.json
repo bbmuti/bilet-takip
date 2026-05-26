@@ -118,6 +118,38 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|7-haziran-mor-ve-otesi-satista-gopsm-gaziantep-odeon-performans-sanatlari-merkezi-gaziantep-satin-al": {
+    "title": "7 Haziran mor ve ötesi Satışta GOPSM – Gaziantep Odeon Performans Sanatları Merkezi , Gaziantep Satın Al",
+    "url": "https://www.biletix.com/etkinlik/5AMOS/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|3-temmuz-mor-ve-otesi-akustik-tukendi-enka-esref-denizhan-acik-hava-tiyatrosu-istanbul": {
+    "title": "3 Temmuz mor ve ötesi Akustik Tükendi ENKA Eşref Denizhan Açık Hava Tiyatrosu, İstanbul",
+    "url": "https://www.biletix.com/etkinlik/5FJ16/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mabel-matiz|istanbul|bilinmiyor|bilinmiyor|mabel-matiz": {
     "title": "Mabel Matiz",
     "url": "https://biletinial.com/tr-tr/muzik/mabel-matiz-if",
