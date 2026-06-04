@@ -172,6 +172,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|3-temmuz-mor-ve-otesi-akustik-tukendi-enka-esref-denizhan-acik-hava-tiyatrosu-istanbul": {
+    "title": "3 Temmuz mor ve ötesi Akustik Tükendi ENKA Eşref Denizhan Açık Hava Tiyatrosu, İstanbul",
+    "url": "https://www.biletix.com/etkinlik/5FJ16/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mabel-matiz-melike-sahin|istanbul|bilinmiyor|bilinmiyor|melike-sahin": {
     "title": "Melike Şahin",
     "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-if",
@@ -255,12 +271,12 @@
   },
   "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
     "title": "Derya Bedavacı",
-    "url": "https://biletinial.com/tr-tr/profile/derya-bedavac",
+    "url": "https://biletinial.com/tr-tr/profile/derya-bedavaci",
     "category": "concert",
     "matched_names": [
       "Derya Bedavacı"
     ],
-    "sale_status": "unknown",
+    "sale_status": "on_sale",
     "site": "biletinial",
     "city": "İstanbul",
     "date": "Bilinmiyor",
