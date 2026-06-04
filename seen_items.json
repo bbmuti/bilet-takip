@@ -124,6 +124,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
+    "title": "mor ve ötesi Etkinlikleri",
+    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|6-haziran-mor-ve-otesi-satista-mimar-sinan-acik-hava-tiyatrosu-adana-satin-al": {
     "title": "6 Haziran mor ve ötesi Satışta Mimar Sinan Açık Hava Tiyatrosu, Adana Satın Al",
     "url": "https://www.biletix.com/etkinlik/5AMOR/TURKIYE/tr",
@@ -159,22 +175,6 @@
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|3-temmuz-mor-ve-otesi-akustik-tukendi-enka-esref-denizhan-acik-hava-tiyatrosu-istanbul": {
     "title": "3 Temmuz mor ve ötesi Akustik Tükendi ENKA Eşref Denizhan Açık Hava Tiyatrosu, İstanbul",
     "url": "https://www.biletix.com/etkinlik/5FJ16/TURKIYE/tr",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
-    "title": "mor ve ötesi Etkinlikleri",
-    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
     "category": "concert",
     "matched_names": [
       "Mor ve Ötesi"
