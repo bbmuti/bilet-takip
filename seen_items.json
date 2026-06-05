@@ -1,41 +1,6 @@
 {
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|3-agustos-2026|2-melike-sahin-3-agustos-2026-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1375": {
-    "title": "2 Melike Şahin 3 Ağustos 2026, 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1375 ₺",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "3 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|melike-sahin-sila|istanbul|maximum-uniq-acikhava|8-temmuz-2026|7-btimes-ile-bizlik-masalar-sila-ve-yasar-8-temmuz-2026-maximum-uniq-acikhava-2280": {
-    "title": "7 B.times ile Bizlik Masalar - Sıla & Yaşar 8 Temmuz 2026 Maximum Uniq Açıkhava 2280 ₺",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/b-times-ile-bizlik-masalar-sila-yasar",
-    "category": "concert",
-    "matched_names": [
-      "Melike Şahin",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "8 Temmuz 2026",
-    "time": "18:30",
-    "venue": "Maximum Uniq Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|25-temmuz-2026|8-mabel-matiz-25-temmuz-2026-26-temmuz-2026-21-agustos-2026-22-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300": {
-    "title": "8 Mabel Matiz 25 Temmuz 2026, 26 Temmuz 2026, 21 Ağustos 2026, 22 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2300 ₺",
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|25-temmuz-2026|6-mabel-matiz-25-temmuz-2026-26-temmuz-2026-21-agustos-2026-22-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300": {
+    "title": "6 Mabel Matiz 25 Temmuz 2026, 26 Temmuz 2026, 21 Ağustos 2026, 22 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2300 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -52,8 +17,26 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|6-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-3350": {
-    "title": "6 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 3350 ₺",
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|3-agustos-2026|9-melike-sahin-3-agustos-2026-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1375": {
+    "title": "9 Melike Şahin 3 Ağustos 2026, 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1375 ₺",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "3 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|5-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-3350": {
+    "title": "5 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 3350 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
     "category": "concert",
     "matched_names": [
@@ -105,6 +88,22 @@
     "date": "22 Haziran 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise": {
+    "title": "Hadise",
+    "url": "https://biletinial.com/tr-tr/profile/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
@@ -165,6 +164,119 @@
     ],
     "sale_status": "on_sale",
     "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz-melike-sahin|istanbul|bilinmiyor|bilinmiyor|melike-sahin": {
+    "title": "Melike Şahin",
+    "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-if",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|melike-sahin|istanbul|bilinmiyor|bilinmiyor|melike-sahin-konseri": {
+    "title": "Melike Şahin Konseri",
+    "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-bkm",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|melike-sahin|istanbul|bilinmiyor|bilinmiyor|melike-sahin-harbiye-konseri": {
+    "title": "Melike Şahin - Harbiye Konseri",
+    "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-harbiye-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|istanbul|bilinmiyor|bilinmiyor|mabel-matiz": {
+    "title": "Mabel Matiz",
+    "url": "https://biletinial.com/tr-tr/muzik/mabel-matiz-if",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
+    "title": "Sıla",
+    "url": "https://biletinial.com/tr-tr/profile/sila",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
+    "title": "Derya Bedavacı",
+    "url": "https://biletinial.com/tr-tr/profile/derya-bedavaci",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi": {
+    "title": "Mor ve Ötesi",
+    "url": "https://biletinial.com/tr-tr/profile/mor-ve-otesi",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
