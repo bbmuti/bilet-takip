@@ -35,8 +35,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|7-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-3850": {
-    "title": "7 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 3850 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|6-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-3850": {
+    "title": "6 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 3850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
     "category": "concert",
     "matched_names": [
@@ -86,6 +86,26 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "22 Haziran 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|10-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
+    "title": "10 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "19 Temmuz 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
