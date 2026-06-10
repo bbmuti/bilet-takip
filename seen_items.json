@@ -33,6 +33,24 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|10-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-2850": {
+    "title": "10 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 2850 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "19 Haziran 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|3-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-1500": {
     "title": "3 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 1500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
