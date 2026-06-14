@@ -40,14 +40,14 @@
     "matched_names": [
       "Mabel Matiz"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Ankara",
     "date": "12 Eylül 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_on_sale": true
   },
   "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|2-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-1500": {
     "title": "2 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 1500 ₺",
