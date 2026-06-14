@@ -33,8 +33,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz|ankara|bilinmiyor|12-eylul-2026|5-mabel-matiz-12-eylul-2026-alsancak-tarihi-havagazi-fabrikasi-yakinda": {
-    "title": "5 Mabel Matiz 12 Eylül 2026 Alsancak Tarihi Havagazı Fabrikası YAKINDA",
+  "concert|mabel-matiz|ankara|bilinmiyor|12-eylul-2026|4-mabel-matiz-12-eylul-2026-alsancak-tarihi-havagazi-fabrikasi-1200": {
+    "title": "4 Mabel Matiz 12 Eylül 2026 Alsancak Tarihi Havagazı Fabrikası 1200 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/-mabel-matiz-",
     "category": "concert",
     "matched_names": [
@@ -46,7 +46,7 @@
     "date": "12 Eylül 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": true,
+    "notified_upcoming": false,
     "notified_on_sale": true
   },
   "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|2-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-1500": {
