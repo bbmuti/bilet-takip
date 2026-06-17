@@ -178,9 +178,41 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
+    "title": "mor ve ötesi Etkinlikleri",
+    "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|20-haziran-mor-ve-otesi-satista-samsun-dogu-park-amfi-tiyatro-samsun-satin-al": {
     "title": "20 Haziran mor ve ötesi Satışta Samsun Doğu Park Amfi Tiyatro, Samsun Satın Al",
     "url": "https://www.biletix.com/etkinlik/5AMOX/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|3-temmuz-mor-ve-otesi-akustik-tukendi-enka-esref-denizhan-acik-hava-tiyatrosu-istanbul": {
+    "title": "3 Temmuz mor ve ötesi Akustik Tükendi ENKA Eşref Denizhan Açık Hava Tiyatrosu, İstanbul",
+    "url": "https://www.biletix.com/etkinlik/5FJ16/TURKIYE/tr",
     "category": "concert",
     "matched_names": [
       "Mor ve Ötesi"
