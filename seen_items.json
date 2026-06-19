@@ -83,8 +83,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|2-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-2850": {
-    "title": "2 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 2850 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|19-haziran-2026|1-derya-bedavaci-19-haziran-2026-oran-acikhava-sahnesi-2850": {
+    "title": "1 Derya Bedavacı 19 Haziran 2026 Oran Açıkhava Sahnesi 2850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
     "category": "concert",
     "matched_names": [
@@ -101,8 +101,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|3-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990": {
-    "title": "3 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺",
+  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|4-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990": {
+    "title": "4 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir",
     "category": "concert",
     "matched_names": [
@@ -118,8 +118,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|20-eylul-2026|9-derya-bedavaci-konseri-20-eylul-2026-bornova-asik-veysel-acikhava-tiyatrosu-1000": {
-    "title": "9 Derya Bedavacı Konseri 20 Eylül 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 1000 ₺",
+  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|20-eylul-2026|10-derya-bedavaci-konseri-20-eylul-2026-bornova-asik-veysel-acikhava-tiyatrosu-1000": {
+    "title": "10 Derya Bedavacı Konseri 20 Eylül 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 1000 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/derya--bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -135,27 +135,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|1-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-1500": {
-    "title": "1 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 1500 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Melike Şahin",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "18 Temmuz 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|1-agustos-2026|6-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500": {
-    "title": "6 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1500 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|1-agustos-2026|5-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500": {
+    "title": "5 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
     "category": "concert",
     "matched_names": [
@@ -228,6 +209,22 @@
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|20-haziran-mor-ve-otesi-satista-samsun-dogu-park-amfi-tiyatro-samsun-satin-al": {
     "title": "20 Haziran mor ve ötesi Satışta Samsun Doğu Park Amfi Tiyatro, Samsun Satın Al",
     "url": "https://www.biletix.com/etkinlik/5AMOX/TURKIYE/tr",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletix",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|3-temmuz-mor-ve-otesi-akustik-tukendi-enka-esref-denizhan-acik-hava-tiyatrosu-istanbul": {
+    "title": "3 Temmuz mor ve ötesi Akustik Tükendi ENKA Eşref Denizhan Açık Hava Tiyatrosu, İstanbul",
+    "url": "https://www.biletix.com/etkinlik/5FJ16/TURKIYE/tr",
     "category": "concert",
     "matched_names": [
       "Mor ve Ötesi"
