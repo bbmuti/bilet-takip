@@ -15,6 +15,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|ayta-sozeri|istanbul|antalya-acikhava|bilinmiyor|01-agustos-cumartesi-ayta-sozeri-konseri-antalya-antalya-acikhava-tiyatrosu-guncel": {
+    "title": "01 Ağustos Cumartesi Ayta Sözeri Konseri Antalya / Antalya Açıkhava Tiyatrosu-Güncel",
+    "url": "https://biletinial.com/tr-tr/muzik/ayta-sozeri-ruya-konserleri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|melike-sahin|istanbul|bilinmiyor|bilinmiyor|03-agustos-pazartesi-melike-sahin-harbiye-konseri-istanbul-avrupa-harbiye-cemil-topuzlu-acikhava-sahnesi-guncel": {
     "title": "03 Ağustos Pazartesi Melike Şahin - Harbiye Konseri İstanbul Avrupa / Harbiye Cemil Topuzlu Açıkhava Sahnesi güncel",
     "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-harbiye-konseri",
@@ -31,8 +47,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|27-temmuz-2026|1-melike-sahin-27-temmuz-2026-28-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300": {
-    "title": "1 Melike Şahin 27 Temmuz 2026, 28 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2300 ₺",
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|27-temmuz-2026|1-melike-sahin-27-temmuz-2026-28-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1700": {
+    "title": "1 Melike Şahin 27 Temmuz 2026, 28 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1700 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-",
     "category": "concert",
     "matched_names": [
@@ -85,22 +101,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|4-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-yakinda": {
-    "title": "4 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu YAKINDA",
+  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|3-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990": {
+    "title": "3 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir",
     "category": "concert",
     "matched_names": [
       "Derya Bedavacı",
       "Mor ve Ötesi"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "city": "İzmir",
     "date": "2 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_upcoming": false,
+    "notified_on_sale": true
   },
   "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|20-eylul-2026|9-derya-bedavaci-konseri-20-eylul-2026-bornova-asik-veysel-acikhava-tiyatrosu-1000": {
     "title": "9 Derya Bedavacı Konseri 20 Eylül 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 1000 ₺",
