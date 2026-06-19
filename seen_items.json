@@ -1,6 +1,6 @@
 {
-  "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|19-haziran-cuma-derya-bedavaci-ankara-oran-acik-hava-sahnesi": {
-    "title": "19 Haziran Cuma Derya Bedavacı Ankara / Oran Açık Hava Sahnesi",
+  "concert|derya-bedavaci|istanbul|antalya-acikhava|bilinmiyor|18-temmuz-cumartesi-derya-bedavaci-antalya-antalya-acikhava-tiyatrosu-guncel": {
+    "title": "18 Temmuz Cumartesi Derya Bedavacı Antalya / Antalya Açıkhava Tiyatrosu-Güncel",
     "url": "https://biletinial.com/tr-tr/muzik/derya-bedavaci",
     "category": "concert",
     "matched_names": [
@@ -11,7 +11,7 @@
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
+    "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
