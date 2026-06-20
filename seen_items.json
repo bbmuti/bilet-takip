@@ -117,13 +117,14 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|1-agustos-2026|4-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500": {
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|1-agustos-2026|4-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500": {
     "title": "4 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
       "Derya Bedavacı",
+      "Mabel Matiz",
       "Melike Şahin",
       "Mor ve Ötesi"
     ],
@@ -136,12 +137,16 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz|antalya|antalya-acikhava|11-ekim-2026|5-mabel-matiz-11-ekim-2026-antalya-acikhava-yakinda": {
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-melike-sahin-mor-ve-otesi|antalya|antalya-acikhava|11-ekim-2026|5-mabel-matiz-11-ekim-2026-antalya-acikhava-yakinda": {
     "title": "5 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava YAKINDA",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
-      "Mabel Matiz"
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi"
     ],
     "sale_status": "upcoming",
     "site": "bubilet",
