@@ -99,8 +99,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|4-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990": {
-    "title": "4 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺",
+  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|3-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990": {
+    "title": "3 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir",
     "category": "concert",
     "matched_names": [
@@ -238,22 +238,6 @@
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
-  },
-  "concert|mabel-matiz|istanbul|bilinmiyor|bilinmiyor|mabel-matiz": {
-    "title": "Mabel Matiz",
-    "url": "https://biletinial.com/tr-tr/muzik/mabel-matiz-if",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz"
-    ],
-    "sale_status": "upcoming",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": false
   },
   "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
     "title": "Sıla",
