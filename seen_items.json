@@ -49,8 +49,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|6-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1399": {
-    "title": "6 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1399 ₺",
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|5-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1399": {
+    "title": "5 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1399 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
     "category": "concert",
     "matched_names": [
@@ -82,27 +82,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|11-ekim-2026|1-mabel-matiz-11-ekim-2026-antalya-acikhava-1700": {
-    "title": "1 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 1700 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Mabel Matiz",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "11 Ekim 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|1-agustos-2026|5-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500": {
-    "title": "5 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1500 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|1-agustos-2026|4-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500": {
+    "title": "4 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
     "category": "concert",
     "matched_names": [
@@ -188,23 +169,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin|istanbul|bilinmiyor|bilinmiyor|melike-sahin": {
-    "title": "Melike Şahin",
-    "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-if",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz",
-      "Melike Şahin"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
     "title": "Sıla",
     "url": "https://biletinial.com/tr-tr/profile/sila",
@@ -212,23 +176,7 @@
     "matched_names": [
       "Sıla"
     ],
-    "sale_status": "on_sale",
-    "site": "biletinial",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|sila|istanbul|bilinmiyor|bilinmiyor|btimes-ile-bizlik-masalar-sila-ve-yasar": {
-    "title": "B.times ile Bizlik Masalar - Sıla & Yaşar",
-    "url": "https://biletinial.com/tr-tr/muzik/btimes-ile-bizlik-masalar-sila-yasar-jj",
-    "category": "concert",
-    "matched_names": [
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
+    "sale_status": "unknown",
     "site": "biletinial",
     "city": "İstanbul",
     "date": "Bilinmiyor",
