@@ -81,23 +81,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|1-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-693": {
-    "title": "1 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 693 ₺",
-    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İzmir",
-    "date": "2 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|mor-ve-otesi|izmir|bilinmiyor|11-temmuz-2026|6-gratis-fest-izmir-mor-ve-otesi-zeynep-bastik-faruk-sabanci-11-temmuz-2026-izmir-arena-2000": {
     "title": "6 Gratis Fest - İzmir | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 11 Temmuz 2026 İzmir Arena 2000 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/gratis-fest-izmir",
@@ -130,27 +113,6 @@
     "date": "1 Ağustos 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|1-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1000": {
-    "title": "1 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1000 ₺",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Melike Şahin",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Bursa",
-    "date": "2 Eylül 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
