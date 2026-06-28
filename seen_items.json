@@ -15,6 +15,22 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
+  "concert|ayta-sozeri|istanbul|antalya-acikhava|bilinmiyor|01-agustos-cumartesi-ayta-sozeri-konseri-antalya-antalya-acikhava-tiyatrosu-guncel": {
+    "title": "01 Ağustos Cumartesi Ayta Sözeri Konseri Antalya / Antalya Açıkhava Tiyatrosu-Güncel",
+    "url": "https://biletinial.com/tr-tr/muzik/ayta-sozeri-ruya-konserleri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|melike-sahin|istanbul|bilinmiyor|bilinmiyor|03-agustos-pazartesi-melike-sahin-harbiye-konseri-istanbul-avrupa-harbiye-cemil-topuzlu-acikhava-sahnesi-guncel": {
     "title": "03 Ağustos Pazartesi Melike Şahin - Harbiye Konseri İstanbul Avrupa / Harbiye Cemil Topuzlu Açıkhava Sahnesi güncel",
     "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-harbiye-konseri",
