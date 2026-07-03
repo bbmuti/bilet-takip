@@ -47,24 +47,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|4-temmuz-2026|5-gratis-fest-istanbul-mor-ve-otesi-zeynep-bastik-faruk-sabanci-4-temmuz-2026-bonus-parkorman-3250": {
-    "title": "5 Gratis Fest - İstanbul | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 4 Temmuz 2026 Bonus Parkorman 3250 ₺",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/gratis-fest-istanbul",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "4 Temmuz 2026",
-    "time": "15:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mabel-matiz-mor-ve-otesi|istanbul|bilinmiyor|3-temmuz-2026|7-mabel-matiz-3-temmuz-2026-paribu-vadi-acikhava-3000": {
-    "title": "7 Mabel Matiz 3 Temmuz 2026 Paribu Vadi Açıkhava 3000 ₺",
+  "concert|mabel-matiz-mor-ve-otesi|istanbul|bilinmiyor|3-temmuz-2026|4-mabel-matiz-3-temmuz-2026-paribu-vadi-acikhava-3000": {
+    "title": "4 Mabel Matiz 3 Temmuz 2026 Paribu Vadi Açıkhava 3000 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-mabel-matiz--",
     "category": "concert",
     "matched_names": [
@@ -80,14 +64,47 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|3-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "3 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|4-temmuz-2026|7-gratis-fest-istanbul-mor-ve-otesi-zeynep-bastik-faruk-sabanci-4-temmuz-2026-bonus-parkorman-3250": {
+    "title": "7 Gratis Fest - İstanbul | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 4 Temmuz 2026 Bonus Parkorman 3250 ₺",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/gratis-fest-istanbul",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "4 Temmuz 2026",
+    "time": "15:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|6-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1399": {
+    "title": "6 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1399 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "3 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|10-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
+    "title": "10 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
       "Derya Bedavacı",
-      "Hadise"
+      "Hadise",
+      "Mor ve Ötesi"
     ],
     "sale_status": "on_sale",
     "site": "bubilet",
@@ -98,27 +115,24 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|11-ekim-2026|1-mabel-matiz-11-ekim-2026-antalya-acikhava-2100": {
-    "title": "1 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
+  "concert|mor-ve-otesi|izmir|bilinmiyor|11-temmuz-2026|8-gratis-fest-izmir-mor-ve-otesi-zeynep-bastik-faruk-sabanci-11-temmuz-2026-izmir-arena-2000": {
+    "title": "8 Gratis Fest - İzmir | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 11 Temmuz 2026 İzmir Arena 2000 ₺",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/gratis-fest-izmir",
     "category": "concert",
     "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Mabel Matiz",
       "Mor ve Ötesi"
     ],
     "sale_status": "on_sale",
     "site": "bubilet",
-    "city": "Antalya",
-    "date": "11 Ekim 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
+    "city": "İzmir",
+    "date": "11 Temmuz 2026",
+    "time": "15:00",
+    "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|6-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
-    "title": "6 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|4-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
+    "title": "4 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -136,8 +150,27 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|2-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1100": {
-    "title": "2 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1100 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|11-ekim-2026|6-mabel-matiz-11-ekim-2026-antalya-acikhava-2100": {
+    "title": "6 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Mabel Matiz",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "11 Ekim 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|6-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1100": {
+    "title": "6 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1100 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
@@ -152,6 +185,48 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "2 Eylül 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|7-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
+    "title": "7 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "19 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|8-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1250": {
+    "title": "8 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1250 ₺",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mor-ve-otesi",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "20 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
