@@ -66,8 +66,44 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|27-temmuz-2026|7-melike-sahin-27-temmuz-2026-28-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300": {
-    "title": "7 Melike Şahin 27 Temmuz 2026, 28 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2300 ₺",
+  "concert|mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|31-temmuz-2026|7-sila-31-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1995": {
+    "title": "7 Sıla 31 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1995 ₺",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "31 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz-mor-ve-otesi|istanbul|bilinmiyor|5-temmuz-2026|9-gratis-fest-istanbul-mor-ve-otesi-zeynep-bastik-faruk-sabanci-5-temmuz-2026-bonus-parkorman-3250": {
+    "title": "9 Gratis Fest - İstanbul | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 5 Temmuz 2026 Bonus Parkorman 3250 ₺",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/gratis-fest-istanbul",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "5 Temmuz 2026",
+    "time": "15:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|27-temmuz-2026|10-melike-sahin-27-temmuz-2026-28-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300": {
+    "title": "10 Melike Şahin 27 Temmuz 2026, 28 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2300 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-",
     "category": "concert",
     "matched_names": [
@@ -101,8 +137,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|izmir|bilinmiyor|11-temmuz-2026|8-gratis-fest-izmir-mor-ve-otesi-zeynep-bastik-faruk-sabanci-11-temmuz-2026-izmir-arena-2000": {
-    "title": "8 Gratis Fest - İzmir | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 11 Temmuz 2026 İzmir Arena 2000 ₺",
+  "concert|mor-ve-otesi|izmir|bilinmiyor|11-temmuz-2026|7-gratis-fest-izmir-mor-ve-otesi-zeynep-bastik-faruk-sabanci-11-temmuz-2026-izmir-arena-2000": {
+    "title": "7 Gratis Fest - İzmir | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı 11 Temmuz 2026 İzmir Arena 2000 ₺",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/gratis-fest-izmir",
     "category": "concert",
     "matched_names": [
@@ -117,8 +153,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|3-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2000": {
-    "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|2-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2000": {
+    "title": "2 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -136,8 +172,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|5-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
-    "title": "5 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi|antalya|antalya-acikhava|18-temmuz-2026|4-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
+    "title": "4 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
