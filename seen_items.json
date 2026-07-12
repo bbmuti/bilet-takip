@@ -101,26 +101,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|10-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
-    "title": "10 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "14 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise": {
     "title": "Hadise",
     "url": "https://biletinial.com/tr-tr/profile/hadise",
