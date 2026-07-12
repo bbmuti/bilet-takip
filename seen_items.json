@@ -47,6 +47,47 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|1-agustos-2026|2-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1750": {
+    "title": "2 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1750 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "1 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|4-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1100": {
+    "title": "4 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1100 ₺",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "2 Eylül 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise": {
     "title": "Hadise",
     "url": "https://biletinial.com/tr-tr/profile/hadise",
