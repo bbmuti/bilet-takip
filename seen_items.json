@@ -65,6 +65,24 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|24-ekim-2026|10-sila-24-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-yakinda": {
+    "title": "10 Sıla 24 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu YAKINDA",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/sila--",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "24 Ekim 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
   "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|3-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
     "title": "3 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
@@ -76,6 +94,23 @@
     "site": "bubilet",
     "city": "Ankara",
     "date": "3 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|8-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990": {
+    "title": "8 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İzmir",
+    "date": "2 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
