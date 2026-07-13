@@ -47,8 +47,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|25-temmuz-2026|5-mabel-matiz-25-temmuz-2026-26-temmuz-2026-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400": {
-    "title": "5 Mabel Matiz 25 Temmuz 2026, 26 Temmuz 2026, 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺",
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|25-temmuz-2026|4-mabel-matiz-25-temmuz-2026-26-temmuz-2026-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400": {
+    "title": "4 Mabel Matiz 25 Temmuz 2026, 26 Temmuz 2026, 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -65,12 +65,11 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|2-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
-    "title": "2 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|4-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
+    "title": "4 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
     "category": "concert",
     "matched_names": [
-      "Ayta Sözeri",
       "Mor ve Ötesi"
     ],
     "sale_status": "on_sale",
@@ -82,28 +81,9 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|8-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "8 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Hadise",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "31 Temmuz 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|7-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
-    "title": "7 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|9-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
+    "title": "9 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
@@ -115,7 +95,7 @@
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Antalya",
-    "date": "14 Ağustos 2026",
+    "date": "18 Temmuz 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
@@ -142,9 +122,9 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|10-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1100": {
-    "title": "10 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1100 ₺",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|9-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1250": {
+    "title": "9 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1250 ₺",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
@@ -157,7 +137,7 @@
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Bursa",
-    "date": "2 Eylül 2026",
+    "date": "1 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -195,6 +175,230 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|melike-sahin|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|19-tem-melike-sahin-bursa-kulturpark-acikhava-tiyatrosu-bursa-biletler": {
+    "title": "19 Tem Melike Şahin Bursa Kültürpark Açıkhava Tiyatrosu Bursa Biletler",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin/seans/241479",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "19 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|melike-sahin|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|27-temmuz-2026|27-tem-melike-sahin-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "27 Tem Melike Şahin Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-/seans/238804",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "27 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|melike-sahin|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|28-temmuz-2026|28-tem-melike-sahin-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "28 Tem Melike Şahin Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-/seans/238805",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "28 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|melike-sahin|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|3-agustos-2026|3-agu-melike-sahin-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "3 Ağu Melike Şahin Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--/seans/256464",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "3 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|melike-sahin|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|13-agustos-2026|13-agu-melike-sahin-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "13 Ağu Melike Şahin Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--/seans/256465",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "13 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|26-temmuz-2026|26-tem-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "26 Tem Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/239975",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "26 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|21-agu-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "21 Ağu Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/245908",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "21 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|22-agustos-2026|22-agu-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "22 Ağu Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/245909",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "22 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|izmir|bilinmiyor|12-eylul-2026|12-eyl-mabel-matiz-alsancak-tarihi-havagazi-fabrikasi-izmir-biletler": {
+    "title": "12 Eyl Mabel Matiz Alsancak Tarihi Havagazı Fabrikası İzmir Biletler",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/-mabel-matiz-/seans/258787",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İzmir",
+    "date": "12 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|22-eylul-2026|22-eyl-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "22 Eyl Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/265189",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "22 Eylül 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|23-eylul-2026|23-eyl-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
+    "title": "23 Eyl Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/265190",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "23 Eylül 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|adana|bilinmiyor|28-eylul-2026|28-eyl-mabel-matiz-adana-cukurova-universitesi-acikhava-tiyatrosu-adana-biletler": {
+    "title": "28 Eyl Mabel Matiz Adana Çukurova Üniversitesi Açıkhava Tiyatrosu Adana Biletler",
+    "url": "https://www.bubilet.com.tr/adana/etkinlik/mabel--matiz--/seans/243344",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Adana",
+    "date": "28 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|adana|bilinmiyor|29-eylul-2026|29-eyl-mabel-matiz-adana-cukurova-universitesi-acikhava-tiyatrosu-adana-biletler": {
+    "title": "29 Eyl Mabel Matiz Adana Çukurova Üniversitesi Açıkhava Tiyatrosu Adana Biletler",
+    "url": "https://www.bubilet.com.tr/adana/etkinlik/mabel--matiz--/seans/243346",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Adana",
+    "date": "29 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz|antalya|antalya-acikhava|11-ekim-2026|11-eki-mabel-matiz-antalya-acikhava-antalya-biletler": {
+    "title": "11 Eki Mabel Matiz Antalya Açıkhava Antalya Biletler",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri/seans/260631",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "11 Ekim 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
     "title": "Sıla",
     "url": "https://biletinial.com/tr-tr/profile/sila",
@@ -207,6 +411,246 @@
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|mugla|bilinmiyor|15-temmuz-2026|15-tem-derya-bedavaci-gunay-restaurant-yalikavak-mugla-biletler": {
+    "title": "15 Tem Derya Bedavacı Günay Restaurant Yalıkavak Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya-bedavaci/seans/264341",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "15 Temmuz 2026",
+    "time": "20:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|antalya|antalya-acikhava|18-temmuz-2026|18-tem-derya-bedavaci-konseri-antalya-acikhava-antalya-biletler": {
+    "title": "18 Tem Derya Bedavacı Konseri Antalya Açıkhava Antalya Biletler",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-/seans/257928",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "18 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|mugla|bilinmiyor|22-temmuz-2026|22-tem-derya-bedavaci-gunay-restaurant-yalikavak-mugla-biletler": {
+    "title": "22 Tem Derya Bedavacı Günay Restaurant Yalıkavak Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya-bedavaci/seans/264342",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "22 Temmuz 2026",
+    "time": "20:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|mugla|bilinmiyor|29-temmuz-2026|29-tem-derya-bedavaci-gunay-restaurant-yalikavak-mugla-biletler": {
+    "title": "29 Tem Derya Bedavacı Günay Restaurant Yalıkavak Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya-bedavaci/seans/264343",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "29 Temmuz 2026",
+    "time": "20:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|aydin|bilinmiyor|31-temmuz-2026|31-tem-derya-bedavaci-jadede-buyulu-geceler-kusadasi-jade-beach-club-aydin-biletler": {
+    "title": "31 Tem Derya Bedavacı - Jade'de Büyülü Geceler Kuşadası Jade Beach Club Aydın Biletler",
+    "url": "https://www.bubilet.com.tr/aydin/etkinlik/derya-bedavaci-jadede-buyulu-geceler/seans/260593",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Aydın",
+    "date": "31 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|bilinmiyor|bilinmiyor|4-agustos-2026|4-agu-derya-bedavaci-konseri-altinoluk-amfi-tiyatro-balikesir-biletler": {
+    "title": "4 Ağu Derya Bedavacı Konseri Altınoluk Amfi Tiyatro Balıkesir Biletler",
+    "url": "https://www.bubilet.com.tr/balikesir/etkinlik/derya--bedavaci-konseri-/seans/240805",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bilinmiyor",
+    "date": "4 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|aydin|bilinmiyor|8-agustos-2026|8-agu-derya-bedavaci-konseri-didim-amfi-tiyatro-aydin-biletler": {
+    "title": "8 Ağu Derya Bedavacı Konseri Didim Amfi Tiyatro Aydın Biletler",
+    "url": "https://www.bubilet.com.tr/aydin/etkinlik/derya-bedavaci-konseri-/seans/255192",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "unknown",
+    "site": "bubilet",
+    "city": "Aydın",
+    "date": "8 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": false
+  },
+  "concert|derya-bedavaci|mugla|bilinmiyor|11-agustos-2026|11-agu-derya-bedavaci-konseri-datca-acikhava-tiyatrosu-mugla-biletler": {
+    "title": "11 Ağu Derya Bedavacı Konseri Datça Açıkhava Tiyatrosu Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya--bedavaci-konseri-/seans/256317",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "11 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|mugla|bilinmiyor|12-agustos-2026|12-agu-derya-bedavaci-konseri-marmaris-amfi-tiyatro-mugla-biletler": {
+    "title": "12 Ağu Derya Bedavacı Konseri Marmaris Amfi Tiyatro Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya--bedavaci-konseri-/seans/250700",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "12 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|aydin|bilinmiyor|17-agustos-2026|17-agu-derya-bedavaci-konseri-kusadasi-altin-guvercin-amfi-tiyatro-kusadasi-avm-aydin-biletler": {
+    "title": "17 Ağu Derya Bedavacı Konseri Kuşadası Altın Güvercin Amfi Tiyatro (Kuşadası AVM) Aydın Biletler",
+    "url": "https://www.bubilet.com.tr/aydin/etkinlik/derya--bedavaci-konseri-/seans/256318",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Aydın",
+    "date": "17 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|istanbul|bilinmiyor|21-agustos-2026|21-agu-derya-bedavaci-konseri-buyukcekmece-kulturpark-kemal-sunal-amfi-tiyatro-istanbul-biletler": {
+    "title": "21 Ağu Derya Bedavacı Konseri Büyükçekmece Kültürpark Kemal Sunal Amfi Tiyatro İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/derya--bedavaci-konseri/seans/231979",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "21 Ağustos 2026",
+    "time": "20:30",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|samsun|bilinmiyor|4-eylul-2026|4-eyl-derya-bedavaci-samsun-dogu-park-amfi-tiyatro-samsun-biletler": {
+    "title": "4 Eyl Derya Bedavacı Samsun Doğu Park Amfi Tiyatro Samsun Biletler",
+    "url": "https://www.bubilet.com.tr/samsun/etkinlik/derya-bedavaci--/seans/266442",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Samsun",
+    "date": "4 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|izmir|bilinmiyor|20-eylul-2026|20-eyl-derya-bedavaci-konseri-bornova-asik-veysel-acikhava-tiyatrosu-izmir-biletler": {
+    "title": "20 Eyl Derya Bedavacı Konseri Bornova Aşık Veysel Açıkhava Tiyatrosu İzmir Biletler",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/derya--bedavaci-konseri-/seans/256966",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İzmir",
+    "date": "20 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|kocaeli|bilinmiyor|24-eylul-2026|24-eyl-derya-bedavaci-kocaeli-derince-belediyesi-gosteri-merkezi-kocaeli-biletler": {
+    "title": "24 Eyl Derya Bedavacı Kocaeli Derince Belediyesi Gösteri Merkezi Kocaeli Biletler",
+    "url": "https://www.bubilet.com.tr/kocaeli/etkinlik/derya-bedavaci-konseri--/seans/267454",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Kocaeli",
+    "date": "24 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|ankara|bilinmiyor|2-ekim-2026|2-eki-derya-bedavaci-oran-acikhava-sahnesi-ankara-biletler": {
+    "title": "2 Eki Derya Bedavacı Oran Açıkhava Sahnesi Ankara Biletler",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-/seans/262549",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "2 Ekim 2026",
+    "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
@@ -227,6 +671,150 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|mugla|bilinmiyor|18-temmuz-2026|18-tem-gratis-fest-bodrum-mor-ve-otesi-zeynep-bastik-faruk-sabanci-bodrum-d-marin-turgutreis-arena-mugla-biletler": {
+    "title": "18 Tem Gratis Fest - Bodrum | Mor ve Ötesi, Zeynep Bastık, Faruk Sabancı Bodrum D-Marin Turgutreis Arena Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/gratis-fest-bodrum/seans/265229",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "18 Temmuz 2026",
+    "time": "15:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|bilinmiyor|bilinmiyor|12-agustos-2026|12-agu-mor-ve-otesi-altinoluk-amfi-tiyatro-balikesir-biletler": {
+    "title": "12 Ağu mor ve ötesi Altınoluk Amfi Tiyatro Balıkesir Biletler",
+    "url": "https://www.bubilet.com.tr/balikesir/etkinlik/mor-ve-otesi-altinoluk/seans/256092",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bilinmiyor",
+    "date": "12 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|14-agu-mor-ve-otesi-antalya-acikhava-antalya-biletler": {
+    "title": "14 Ağu mor ve ötesi Antalya Açıkhava Antalya Biletler",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya/seans/243275",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "14 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|denizli|bilinmiyor|15-agustos-2026|15-agu-mor-ve-otesi-denizli-acikhava-tiyatrosu-denizli-biletler": {
+    "title": "15 Ağu mor ve ötesi Denizli Açıkhava Tiyatrosu Denizli Biletler",
+    "url": "https://www.bubilet.com.tr/denizli/etkinlik/mor-ve-otesi-denizli/seans/243272",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Denizli",
+    "date": "15 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|mugla|bilinmiyor|16-agustos-2026|16-agu-mor-ve-otesi-marmaris-amfi-tiyatro-mugla-biletler": {
+    "title": "16 Ağu mor ve ötesi Marmaris Amfi Tiyatro Muğla Biletler",
+    "url": "https://www.bubilet.com.tr/mugla/etkinlik/mor-ve-otesi-marmaris/seans/246316",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Muğla",
+    "date": "16 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|13-eylul-2026|13-eyl-mor-ve-otesi-rockn-park-istanbul-life-park-istanbul-biletler": {
+    "title": "13 Eyl mor ve ötesi - Rock’n Park İstanbul Life Park İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mor-ve-otesi-rockn-park-istanbul/seans/267598",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "13 Eylül 2026",
+    "time": "15:30",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|20-eyl-mor-ve-otesi-bursa-kulturpark-acikhava-tiyatrosu-bursa-biletler": {
+    "title": "20 Eyl mor ve ötesi Bursa Kültürpark Açıkhava Tiyatrosu Bursa Biletler",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mor-ve-otesi/seans/261610",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "20 Eylül 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|2-eki-mor-ve-otesi-akustik-bornova-asik-veysel-acikhava-tiyatrosu-izmir-biletler": {
+    "title": "2 Eki mor ve ötesi Akustik Bornova Aşık Veysel Açıkhava Tiyatrosu İzmir Biletler",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir/seans/259788",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İzmir",
+    "date": "2 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|3-eki-mor-ve-otesi-odtu-md-visnelik-ankara-biletler": {
+    "title": "3 Eki mor ve ötesi ODTÜ MD Vişnelik Ankara Biletler",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara/seans/261623",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "3 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi": {
     "title": "Mor ve Ötesi",
     "url": "https://biletinial.com/tr-tr/profile/mor-ve-otesi",
@@ -240,6 +828,54 @@
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri|ankara|bilinmiyor|31-temmuz-2026|31-tem-ayta-sozeri-oran-acikhava-sahnesi-ankara-biletler": {
+    "title": "31 Tem Ayta Sözeri Oran Açıkhava Sahnesi Ankara Biletler",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-/seans/242593",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "31 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri|antalya|antalya-acikhava|1-agustos-2026|1-agu-ayta-sozeri-konseri-antalya-acikhava-antalya-biletler": {
+    "title": "1 Ağu Ayta Sözeri Konseri Antalya Açıkhava Antalya Biletler",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---/seans/255833",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "1 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|1-eyl-ayta-sozeri-konseri-bursa-kulturpark-acikhava-tiyatrosu-bursa-biletler": {
+    "title": "1 Eyl Ayta Sözeri Konseri Bursa Kültürpark Açıkhava Tiyatrosu Bursa Biletler",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-/seans/239421",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "1 Eylül 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
     "notified_on_sale": true
   }
