@@ -81,27 +81,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|8-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "8 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Hadise",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "31 Temmuz 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|5-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
-    "title": "5 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|2-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
+    "title": "2 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -140,8 +121,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|4-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
-    "title": "4 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|6-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
+    "title": "6 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
     "category": "concert",
     "matched_names": [
