@@ -84,23 +84,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|6-mor-ve-otesi-6-ekim-2026-congresium-ankara-yakinda": {
-    "title": "6 mor ve ötesi 6 Ekim 2026 Congresium Ankara YAKINDA",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "upcoming",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "6 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": false
-  },
   "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|10-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
     "title": "10 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
@@ -139,8 +122,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|4-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
-    "title": "4 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|3-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
+    "title": "3 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
     "category": "concert",
     "matched_names": [
