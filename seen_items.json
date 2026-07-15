@@ -47,6 +47,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|6-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
+    "title": "6 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "3 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|4-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
     "title": "4 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
