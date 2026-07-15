@@ -47,8 +47,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|25-temmuz-2026|6-mabel-matiz-25-temmuz-2026-26-temmuz-2026-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400": {
-    "title": "6 Mabel Matiz 25 Temmuz 2026, 26 Temmuz 2026, 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺",
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|25-temmuz-2026|5-mabel-matiz-25-temmuz-2026-26-temmuz-2026-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400": {
+    "title": "5 Mabel Matiz 25 Temmuz 2026, 26 Temmuz 2026, 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -65,25 +65,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|4-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
-    "title": "4 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "3 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|8-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "8 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|3-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
+    "title": "3 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
@@ -101,25 +84,25 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|9-mor-ve-otesi-6-ekim-2026-congresium-ankara-yakinda": {
-    "title": "9 mor ve ötesi 6 Ekim 2026 Congresium Ankara YAKINDA",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
+  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|6-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1599": {
+    "title": "6 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1599 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
       "Mor ve Ötesi"
     ],
-    "sale_status": "upcoming",
+    "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Ankara",
-    "date": "6 Ekim 2026",
+    "date": "3 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": false
+    "notified_upcoming": false,
+    "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|5-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
-    "title": "5 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|7-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
+    "title": "7 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -139,8 +122,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|6-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
-    "title": "6 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|8-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
+    "title": "8 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -466,22 +449,6 @@
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci|mugla|bilinmiyor|15-temmuz-2026|15-tem-derya-bedavaci-gunay-restaurant-yalikavak-mugla-biletler": {
-    "title": "15 Tem Derya Bedavacı Günay Restaurant Yalıkavak Muğla Biletler",
-    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya-bedavaci/seans/264341",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Muğla",
-    "date": "15 Temmuz 2026",
-    "time": "20:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
