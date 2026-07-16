@@ -101,25 +101,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|8-mor-ve-otesi-6-ekim-2026-congresium-ankara-yakinda": {
-    "title": "8 mor ve ötesi 6 Ekim 2026 Congresium Ankara YAKINDA",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "upcoming",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "6 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": true,
-    "notified_on_sale": false
-  },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|5-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
-    "title": "5 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|3-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2000": {
+    "title": "3 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2000 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -134,6 +117,27 @@
     "site": "bubilet",
     "city": "Antalya",
     "date": "18 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|9-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
+    "title": "9 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "14 Ağustos 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
