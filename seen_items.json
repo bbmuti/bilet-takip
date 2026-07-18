@@ -99,8 +99,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|6-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "6 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|7-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
+    "title": "7 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
@@ -135,13 +135,12 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|18-temmuz-2026|2-derya-bedavaci-konseri-18-temmuz-2026-antalya-acikhava-2500": {
-    "title": "2 Derya Bedavacı Konseri 18 Temmuz 2026 Antalya Açıkhava 2500 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|29-agustos-2026|9-hadise-konseri-29-agustos-2026-antalya-acikhava-1500": {
+    "title": "9 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 1500 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
-      "Derya Bedavacı",
       "Hadise",
       "Mabel Matiz",
       "Mor ve Ötesi",
@@ -150,19 +149,18 @@
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Antalya",
-    "date": "18 Temmuz 2026",
-    "time": "21:00",
+    "date": "29 Ağustos 2026",
+    "time": "20:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|9-mabel-matiz-11-ekim-2026-antalya-acikhava-2100": {
-    "title": "9 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|10-mabel-matiz-11-ekim-2026-antalya-acikhava-2100": {
+    "title": "10 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
-      "Derya Bedavacı",
       "Hadise",
       "Mabel Matiz",
       "Mor ve Ötesi",
@@ -221,8 +219,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|7-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
-    "title": "7 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|19-temmuz-2026|6-melike-sahin-19-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-2250": {
+    "title": "6 Melike Şahin 19 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2250 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-melike-sahin",
     "category": "concert",
     "matched_names": [
@@ -496,22 +494,6 @@
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci|antalya|antalya-acikhava|18-temmuz-2026|18-tem-derya-bedavaci-konseri-antalya-acikhava-antalya-biletler": {
-    "title": "18 Tem Derya Bedavacı Konseri Antalya Açıkhava Antalya Biletler",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-/seans/257928",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "18 Temmuz 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
