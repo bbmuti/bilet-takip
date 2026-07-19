@@ -100,8 +100,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|4-mor-ve-otesi-6-ekim-2026-congresium-ankara-2250": {
-    "title": "4 mor ve ötesi 6 Ekim 2026 Congresium Ankara 2250 ₺",
+  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|3-mor-ve-otesi-6-ekim-2026-congresium-ankara-2250": {
+    "title": "3 mor ve ötesi 6 Ekim 2026 Congresium Ankara 2250 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
     "category": "concert",
     "matched_names": [
@@ -168,26 +168,6 @@
     "site": "bubilet",
     "city": "Antalya",
     "date": "14 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|1-agustos-2026|9-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1750": {
-    "title": "9 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1750 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "1 Ağustos 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
