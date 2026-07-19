@@ -117,8 +117,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|7-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "7 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|9-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
+    "title": "9 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
@@ -153,8 +153,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|6-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
-    "title": "6 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|5-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
+    "title": "5 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -169,6 +169,26 @@
     "city": "Antalya",
     "date": "14 Ağustos 2026",
     "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|29-agustos-2026|9-hadise-konseri-29-agustos-2026-antalya-acikhava-1500": {
+    "title": "9 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 1500 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "29 Ağustos 2026",
+    "time": "20:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
@@ -362,22 +382,6 @@
     "site": "bubilet",
     "city": "İstanbul",
     "date": "13 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|26-temmuz-2026|26-tem-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
-    "title": "26 Tem Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/239975",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "26 Temmuz 2026",
     "time": "21:00",
     "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
     "notified_upcoming": false,
