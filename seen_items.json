@@ -31,6 +31,24 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|31-temmuz-2026|10-sila-31-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-7410": {
+    "title": "10 Sıla 31 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 7410 ₺",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "31 Temmuz 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|4-mabel-matiz-11-ekim-2026-antalya-acikhava-2100": {
     "title": "4 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
