@@ -65,25 +65,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|31-temmuz-2026|10-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850": {
-    "title": "10 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
-      "Hadise",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "31 Temmuz 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|3-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500": {
     "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
@@ -99,6 +80,26 @@
     "site": "bubilet",
     "city": "Antalya",
     "date": "14 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|1-agustos-2026|9-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1750": {
+    "title": "9 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1750 ₺",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "1 Ağustos 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
@@ -125,8 +126,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|24-temmuz-2026|4-derya-bedavaci-64-bursa-festivali-24-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-1000": {
-    "title": "4 Derya Bedavacı - 64. Bursa Festivali 24 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1000 ₺",
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|24-temmuz-2026|3-derya-bedavaci-64-bursa-festivali-24-temmuz-2026-bursa-kulturpark-acikhava-tiyatrosu-1000": {
+    "title": "3 Derya Bedavacı - 64. Bursa Festivali 24 Temmuz 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1000 ₺",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/derya-bedavaci-64-bursa-festivali",
     "category": "concert",
     "matched_names": [
