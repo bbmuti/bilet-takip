@@ -49,24 +49,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|27-temmuz-2026|10-melike-sahin-27-temmuz-2026-28-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2750-den-itibaren": {
-    "title": "10 Melike Şahin 27 Temmuz 2026, 28 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2750 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/melike-sahin-konseri-",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "27 Temmuz 2026",
-    "time": "21:00",
-    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|3-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850-den-itibaren": {
     "title": "3 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
@@ -899,6 +881,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|ayta-sozeri|istanbul|jolly-joker|16-ekim-2026|16-eki-ayta-sozeri-konseri-jolly-joker-kartal-istmarina-istanbul-biletler": {
+    "title": "16 Eki Ayta Sözeri Konseri Jolly Joker Kartal İstMarina İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-ayta-sozeri-konseri/seans/269295",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Jolly Joker",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|ayta-sozeri|istanbul|jolly-joker|17-ekim-2026|17-eki-ayta-sozeri-konseri-jolly-joker-vadistanbul-istanbul-biletler": {
     "title": "17 Eki Ayta Sözeri Konseri Jolly Joker Vadistanbul İstanbul Biletler",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-ayta-sozeri-konseri/seans/269305",
@@ -910,22 +908,6 @@
     "site": "bubilet",
     "city": "İstanbul",
     "date": "17 Ekim 2026",
-    "time": "21:00",
-    "venue": "Jolly Joker",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri|istanbul|jolly-joker|24-ekim-2026|24-eki-ayta-sozeri-konseri-jolly-joker-kartal-istmarina-istanbul-biletler": {
-    "title": "24 Eki Ayta Sözeri Konseri Jolly Joker Kartal İstMarina İstanbul Biletler",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-ayta-sozeri-konseri/seans/269295",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "24 Ekim 2026",
     "time": "21:00",
     "venue": "Jolly Joker",
     "notified_upcoming": false,
