@@ -49,8 +49,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|31-temmuz-2026|6-sila-31-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-7410-den-itibaren": {
-    "title": "6 Sıla 31 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 7410 ₺ 'den itibaren",
+  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|31-temmuz-2026|7-sila-31-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-7410-den-itibaren": {
+    "title": "7 Sıla 31 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 7410 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila",
     "category": "concert",
     "matched_names": [
@@ -69,8 +69,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|3-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850-den-itibaren": {
-    "title": "3 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺ 'den itibaren",
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|31-temmuz-2026|4-ayta-sozeri-31-temmuz-2026-oran-acikhava-sahnesi-1850-den-itibaren": {
+    "title": "4 Ayta Sözeri 31 Temmuz 2026 Oran Açıkhava Sahnesi 1850 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/aytasozeri-",
     "category": "concert",
     "matched_names": [
@@ -84,26 +84,6 @@
     "date": "31 Temmuz 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|1-agustos-2026|10-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1500-den-itibaren": {
-    "title": "10 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1500 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "1 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
