@@ -49,8 +49,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|6-mor-ve-otesi-6-ekim-2026-congresium-ankara-1500-den-itibaren": {
-    "title": "6 mor ve ötesi 6 Ekim 2026 Congresium Ankara 1500 ₺ 'den itibaren",
+  "concert|mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|8-mor-ve-otesi-6-ekim-2026-congresium-ankara-1500-den-itibaren": {
+    "title": "8 mor ve ötesi 6 Ekim 2026 Congresium Ankara 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
     "category": "concert",
     "matched_names": [
@@ -65,8 +65,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|8-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990-den-itibaren": {
-    "title": "8 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺ 'den itibaren",
+  "concert|derya-bedavaci-mor-ve-otesi|izmir|bilinmiyor|2-ekim-2026|5-mor-ve-otesi-akustik-2-ekim-2026-bornova-asik-veysel-acikhava-tiyatrosu-990-den-itibaren": {
+    "title": "5 mor ve ötesi Akustik 2 Ekim 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 990 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/mor-ve-otesi-izmir",
     "category": "concert",
     "matched_names": [
@@ -97,6 +97,27 @@
     "site": "bubilet",
     "city": "Antalya",
     "date": "14 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|7-mabel-matiz-11-ekim-2026-antalya-acikhava-2100-den-itibaren": {
+    "title": "7 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "11 Ekim 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
