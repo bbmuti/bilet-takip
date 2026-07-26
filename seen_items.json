@@ -67,8 +67,43 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|3-mabel-matiz-11-ekim-2026-antalya-acikhava-2100-den-itibaren": {
-    "title": "3 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺ 'den itibaren",
+  "concert|ayta-sozeri-mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|9-mor-ve-otesi-6-ekim-2026-congresium-ankara-1500-den-itibaren": {
+    "title": "9 mor ve ötesi 6 Ekim 2026 Congresium Ankara 1500 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "6 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci-hadise-mor-ve-otesi|izmir|bilinmiyor|20-eylul-2026|7-derya-bedavaci-konseri-20-eylul-2026-bornova-asik-veysel-acikhava-tiyatrosu-1000-den-itibaren": {
+    "title": "7 Derya Bedavacı Konseri 20 Eylül 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 1000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/derya--bedavaci-konseri-",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Hadise",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İzmir",
+    "date": "20 Eylül 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-melike-sahin-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|4-mabel-matiz-11-ekim-2026-antalya-acikhava-2100-den-itibaren": {
+    "title": "4 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
