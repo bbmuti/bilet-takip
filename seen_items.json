@@ -15,13 +15,11 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|31-temmuz-2026|4-sila-31-temmuz-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-3705-den-itibaren": {
-    "title": "4 Sıla 31 Temmuz 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 3705 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila",
+  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|3-agustos-2026|4-melike-sahin-3-agustos-2026-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2310-den-itibaren": {
+    "title": "4 Melike Şahin 3 Ağustos 2026, 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2310 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
     "category": "concert",
     "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı",
       "Mabel Matiz",
       "Melike Şahin",
       "Sıla"
@@ -29,7 +27,7 @@
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "İstanbul",
-    "date": "31 Temmuz 2026",
+    "date": "3 Ağustos 2026",
     "time": "21:00",
     "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -48,24 +46,6 @@
     "site": "bubilet",
     "city": "İstanbul",
     "date": "21 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|3-agustos-2026|6-melike-sahin-3-agustos-2026-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2310-den-itibaren": {
-    "title": "6 Melike Şahin 3 Ağustos 2026, 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2310 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "3 Ağustos 2026",
     "time": "21:00",
     "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -107,45 +87,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|29-agustos-2026|5-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
-    "title": "5 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "29 Ağustos 2026",
-    "time": "20:00",
-    "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-derya-bedavaci|antalya|bilinmiyor|1-agustos-2026|7-derya-bedavaci-yemekli-gala-1-agustos-2026-pera-kemer-kabaret-7500-den-itibaren": {
-    "title": "7 Derya Bedavacı Yemekli Gala 1 Ağustos 2026 Pera Kemer Kabaret 7500 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-yemekli-gala-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "1 Ağustos 2026",
-    "time": "22:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|1-agustos-2026|9-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1750-den-itibaren": {
-    "title": "9 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1750 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|1-agustos-2026|6-ayta-sozeri-konseri-1-agustos-2026-antalya-acikhava-1750-den-itibaren": {
+    "title": "6 Ayta Sözeri Konseri 1 Ağustos 2026 Antalya Açıkhava 1750 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/ayta-sozeri-konseri---",
     "category": "concert",
     "matched_names": [
@@ -164,8 +107,65 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|9-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
-    "title": "9 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|29-agustos-2026|7-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
+    "title": "7 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "29 Ağustos 2026",
+    "time": "20:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-derya-bedavaci|antalya|bilinmiyor|1-agustos-2026|8-derya-bedavaci-yemekli-gala-1-agustos-2026-pera-kemer-kabaret-7500-den-itibaren": {
+    "title": "8 Derya Bedavacı Yemekli Gala 1 Ağustos 2026 Pera Kemer Kabaret 7500 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-yemekli-gala-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "1 Ağustos 2026",
+    "time": "22:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|10-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500-den-itibaren": {
+    "title": "10 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "14 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|4-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
+    "title": "4 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mor-ve-otesi",
     "category": "concert",
     "matched_names": [
@@ -452,22 +452,6 @@
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci|aydin|bilinmiyor|31-temmuz-2026|31-tem-derya-bedavaci-jadede-buyulu-geceler-kusadasi-jade-beach-club-aydin-biletler": {
-    "title": "31 Tem Derya Bedavacı - Jade'de Büyülü Geceler Kuşadası Jade Beach Club Aydın Biletler",
-    "url": "https://www.bubilet.com.tr/aydin/etkinlik/derya-bedavaci-jadede-buyulu-geceler/seans/260593",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Aydın",
-    "date": "31 Temmuz 2026",
-    "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
