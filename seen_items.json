@@ -51,8 +51,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|3-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500-den-itibaren": {
-    "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|4-mor-ve-otesi-14-agustos-2026-antalya-acikhava-2500-den-itibaren": {
+    "title": "4 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 2500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -91,28 +91,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|10-mabel-matiz-11-ekim-2026-antalya-acikhava-2100-den-itibaren": {
-    "title": "10 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "11 Ekim 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|6-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "6 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|8-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "8 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-",
     "category": "concert",
     "matched_names": [
@@ -131,8 +111,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|9-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350-den-itibaren": {
-    "title": "9 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|10-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350-den-itibaren": {
+    "title": "10 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
     "category": "concert",
     "matched_names": [
