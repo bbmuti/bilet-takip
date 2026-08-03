@@ -35,8 +35,27 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|14-agustos-2026|10-sila-14-agustos-2026-10-ekim-2026-cesme-acikhava-tiyatrosu-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
-    "title": "10 Sıla 14 Ağustos 2026, 10 Ekim 2026 Çeşme Açıkhava Tiyatrosu, Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
+  "concert|ebru-gundes-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|13-agustos-2026|6-melike-sahin-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2310-den-itibaren": {
+    "title": "6 Melike Şahin 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2310 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
+    "category": "concert",
+    "matched_names": [
+      "Ebru Gündeş",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "13 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|14-agustos-2026|7-sila-14-agustos-2026-10-ekim-2026-cesme-acikhava-tiyatrosu-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
+    "title": "7 Sıla 14 Ağustos 2026, 10 Ekim 2026 Çeşme Açıkhava Tiyatrosu, Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/-sila-konseri",
     "category": "concert",
     "matched_names": [
@@ -51,8 +70,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|2-mabel-matiz-11-ekim-2026-antalya-acikhava-2100-den-itibaren": {
-    "title": "2 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|3-mabel-matiz-11-ekim-2026-antalya-acikhava-2100-den-itibaren": {
+    "title": "3 Mabel Matiz 11 Ekim 2026 Antalya Açıkhava 2100 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
