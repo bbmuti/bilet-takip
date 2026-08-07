@@ -87,24 +87,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|10-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
-    "title": "10 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "3 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|4-mor-ve-otesi-14-agustos-2026-antalya-acikhava-3000-den-itibaren": {
-    "title": "4 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 3000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|5-mor-ve-otesi-14-agustos-2026-antalya-acikhava-3000-den-itibaren": {
+    "title": "5 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 3000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -123,8 +107,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|10-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "10 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|8-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
+    "title": "8 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
