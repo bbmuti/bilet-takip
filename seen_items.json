@@ -1,4 +1,20 @@
 {
+  "concert|ebru-gundes|istanbul|volkswagen-arena|bilinmiyor|16-ekim-cuma-ebru-gundes-beraber-soyluyoruz-istanbul-avrupa-volkswagen-arena": {
+    "title": "16 Ekim Cuma Ebru Gündeş “Beraber Söylüyoruz” İstanbul Avrupa / Volkswagen Arena",
+    "url": "https://biletinial.com/tr-tr/muzik/ebru-gundes-konseri-biletleri",
+    "category": "concert",
+    "matched_names": [
+      "Ebru Gündeş"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|ebru-gundes-mabel-matiz-melike-sahin|istanbul|volkswagen-arena|16-ekim-2026|2-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
     "title": "2 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
@@ -75,8 +91,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|2-ekim-2026|4-sila-konseri-2-ekim-2026-antalya-acikhava-1500-den-itibaren": {
-    "title": "4 Sıla Konseri 2 Ekim 2026 Antalya Açıkhava 1500 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|2-ekim-2026|5-sila-konseri-2-ekim-2026-antalya-acikhava-1500-den-itibaren": {
+    "title": "5 Sıla Konseri 2 Ekim 2026 Antalya Açıkhava 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/sila-konseri--",
     "category": "concert",
     "matched_names": [
@@ -112,6 +128,38 @@
     "date": "6 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise": {
+    "title": "Hadise",
+    "url": "https://biletinial.com/tr-tr/muzik/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|hadise|istanbul|bilinmiyor|bilinmiyor|hadise-konser-biletleri": {
+    "title": "Hadise Konser Biletleri",
+    "url": "https://biletinial.com/tr-tr/profile/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
@@ -259,6 +307,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|melike-sahin|istanbul|bilinmiyor|bilinmiyor|melike-sahin-harbiye-konseri": {
+    "title": "Melike Şahin - Harbiye Konseri",
+    "url": "https://biletinial.com/tr-tr/muzik/melike-sahin-harbiye-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Melike Şahin"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mabel-matiz|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|21-agu-mabel-matiz-harbiye-cemil-topuzlu-acikhava-tiyatrosu-istanbul-biletler": {
     "title": "21 Ağu Mabel Matiz Harbiye Cemil Topuzlu Açıkhava Tiyatrosu İstanbul Biletler",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-/seans/245908",
@@ -372,6 +436,38 @@
     "date": "11 Ekim 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|sila|istanbul|bilinmiyor|bilinmiyor|sila": {
+    "title": "Sıla",
+    "url": "https://biletinial.com/tr-tr/muzik/sila",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|sila|istanbul|bilinmiyor|bilinmiyor|bizlik-masalar-yasar-ve-sila": {
+    "title": "B.İzlik Masalar - Yaşar & Sıla",
+    "url": "https://biletinial.com/tr-tr/muzik/bizlik-masalar-yasar-sila-jj",
+    "category": "concert",
+    "matched_names": [
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
@@ -647,6 +743,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|derya-bedavaci|istanbul|bilinmiyor|bilinmiyor|derya-bedavaci": {
+    "title": "Derya Bedavacı",
+    "url": "https://biletinial.com/tr-tr/muzik/derya-bedavaci-jj",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|mor-ve-otesi|bilinmiyor|bilinmiyor|12-agustos-2026|12-agu-mor-ve-otesi-altinoluk-amfi-tiyatro-balikesir-biletler": {
     "title": "12 Ağu mor ve ötesi Altınoluk Amfi Tiyatro Balıkesir Biletler",
     "url": "https://www.bubilet.com.tr/balikesir/etkinlik/mor-ve-otesi-altinoluk/seans/256092",
@@ -819,6 +931,22 @@
     "city": "Ankara",
     "date": "6 Ekim 2026",
     "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi": {
+    "title": "mor ve ötesi",
+    "url": "https://biletinial.com/tr-tr/muzik/mor-ve-otesi-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "biletinial",
+    "city": "İstanbul",
+    "date": "Bilinmiyor",
+    "time": "Bilinmiyor",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
