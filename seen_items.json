@@ -107,8 +107,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|5-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350-den-itibaren": {
-    "title": "5 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|8-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1350-den-itibaren": {
+    "title": "8 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1350 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
     "category": "concert",
     "matched_names": [
@@ -127,8 +127,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|8-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "8 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|10-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "10 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-",
     "category": "concert",
     "matched_names": [
@@ -142,26 +142,6 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "1 Eylül 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|9-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "9 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Bursa",
-    "date": "2 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -635,22 +615,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci|istanbul|jolly-joker|25-eylul-2026|25-eyl-derya-bedavaci-konseri-jolly-joker-kartal-istmarina-istanbul-biletler": {
-    "title": "25 Eyl Derya Bedavacı Konseri Jolly Joker Kartal İstMarina İstanbul Biletler",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/derya-bedavaci-konseri/seans/269315",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "25 Eylül 2026",
-    "time": "21:00",
-    "venue": "Jolly Joker",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|derya-bedavaci|istanbul|jolly-joker|26-eylul-2026|26-eyl-derya-bedavaci-konseri-jolly-joker-atakent-tema-istanbul-biletler": {
     "title": "26 Eyl Derya Bedavacı Konseri Jolly Joker Atakent Tema İstanbul Biletler",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/derya-bedavaci-konseri/seans/269140",
@@ -680,6 +644,22 @@
     "date": "2 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci|istanbul|jolly-joker|2-ekim-2026|2-eki-derya-bedavaci-konseri-jolly-joker-kartal-istmarina-istanbul-biletler": {
+    "title": "2 Eki Derya Bedavacı Konseri Jolly Joker Kartal İstMarina İstanbul Biletler",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/derya-bedavaci-konseri/seans/269315",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "2 Ekim 2026",
+    "time": "21:00",
+    "venue": "Jolly Joker",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
