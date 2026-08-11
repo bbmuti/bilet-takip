@@ -31,15 +31,14 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ebru-gundes-mabel-matiz-melike-sahin-sila|istanbul|volkswagen-arena|16-ekim-2026|2-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+  "concert|ebru-gundes-mabel-matiz-melike-sahin|istanbul|volkswagen-arena|16-ekim-2026|2-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
     "title": "2 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
     "category": "concert",
     "matched_names": [
       "Ebru Gündeş",
       "Mabel Matiz",
-      "Melike Şahin",
-      "Sıla"
+      "Melike Şahin"
     ],
     "sale_status": "upcoming",
     "site": "bubilet",
@@ -69,8 +68,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ebru-gundes-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|8-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
-    "title": "8 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
+  "concert|ebru-gundes-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|9-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
+    "title": "9 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila-",
     "category": "concert",
     "matched_names": [
@@ -83,6 +82,25 @@
     "site": "bubilet",
     "city": "İstanbul",
     "date": "30 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ebru-gundes-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|13-agustos-2026|10-melike-sahin-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-3960-den-itibaren": {
+    "title": "10 Melike Şahin 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 3960 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
+    "category": "concert",
+    "matched_names": [
+      "Ebru Gündeş",
+      "Mabel Matiz",
+      "Melike Şahin",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "13 Ağustos 2026",
     "time": "21:00",
     "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -102,22 +120,6 @@
     "date": "2 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|14-agustos-2026|8-sila-14-agustos-2026-10-ekim-2026-cesme-acikhava-tiyatrosu-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
-    "title": "8 Sıla 14 Ağustos 2026, 10 Ekim 2026 Çeşme Açıkhava Tiyatrosu, Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/izmir/etkinlik/-sila-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İzmir",
-    "date": "14 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
@@ -141,8 +143,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|10-ekim-2026|6-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "6 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|10-ekim-2026|8-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "8 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -161,8 +163,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|2-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1850-den-itibaren": {
-    "title": "2 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1850 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|3-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1850-den-itibaren": {
+    "title": "3 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1850 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
