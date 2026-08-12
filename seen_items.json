@@ -49,6 +49,24 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
+  "concert|ebru-gundes-mabel-matiz-melike-sahin|istanbul|volkswagen-arena|16-ekim-2026|5-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "5 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
+    "category": "concert",
+    "matched_names": [
+      "Ebru Gündeş",
+      "Mabel Matiz",
+      "Melike Şahin"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
   "concert|mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|7-mor-ve-otesi-6-ekim-2026-congresium-ankara-2250-den-itibaren": {
     "title": "7 mor ve ötesi 6 Ekim 2026 Congresium Ankara 2250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
