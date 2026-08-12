@@ -51,8 +51,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|4-mor-ve-otesi-14-agustos-2026-antalya-acikhava-4000-den-itibaren": {
-    "title": "4 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 4000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|3-mor-ve-otesi-14-agustos-2026-antalya-acikhava-4000-den-itibaren": {
+    "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 4000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
@@ -71,8 +71,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|8-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "8 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|5-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
+    "title": "5 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
@@ -86,26 +86,6 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "2 Eylül 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|10-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "10 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Bursa",
-    "date": "1 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -451,22 +431,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci|mugla|bilinmiyor|12-agustos-2026|12-agu-derya-bedavaci-konseri-marmaris-amfi-tiyatro-mugla-biletler": {
-    "title": "12 Ağu Derya Bedavacı Konseri Marmaris Amfi Tiyatro Muğla Biletler",
-    "url": "https://www.bubilet.com.tr/mugla/etkinlik/derya--bedavaci-konseri-/seans/250700",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Muğla",
-    "date": "12 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|derya-bedavaci|aydin|bilinmiyor|17-agustos-2026|17-agu-derya-bedavaci-konseri-kusadasi-altin-guvercin-amfi-tiyatro-kusadasi-avm-aydin-biletler": {
     "title": "17 Ağu Derya Bedavacı Konseri Kuşadası Altın Güvercin Amfi Tiyatro (Kuşadası AVM) Aydın Biletler",
     "url": "https://www.bubilet.com.tr/aydin/etkinlik/derya--bedavaci-konseri-/seans/256318",
@@ -722,38 +686,6 @@
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|bilinmiyor|bilinmiyor|bilinmiyor|12-agu-mor-ve-otesi-altinoluk-amfi-tiyatro-balikesir-tukendi": {
-    "title": "12 Ağu mor ve ötesi Altınoluk Amfi Tiyatro Balıkesir Tükendi",
-    "url": "https://www.bubilet.com.tr/balikesir/etkinlik/mor-ve-otesi-altinoluk",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "unknown",
-    "site": "bubilet",
-    "city": "Bilinmiyor",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": false
-  },
-  "concert|mor-ve-otesi|bilinmiyor|bilinmiyor|bilinmiyor|12-agu-mor-ve-otesi-altinoluk-amfi-tiyatro-balikesir-biletler": {
-    "title": "12 Ağu mor ve ötesi Altınoluk Amfi Tiyatro Balıkesir Biletler",
-    "url": "https://www.bubilet.com.tr/balikesir/etkinlik/mor-ve-otesi-altinoluk/seans/276112",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "unknown",
-    "site": "bubilet",
-    "city": "Bilinmiyor",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": false
   },
   "concert|mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|14-agu-mor-ve-otesi-antalya-acikhava-antalya-biletler": {
     "title": "14 Ağu mor ve ötesi Antalya Açıkhava Antalya Biletler",
