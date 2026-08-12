@@ -15,13 +15,14 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|3-mabel-matiz-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300-den-itibaren": {
+  "concert|mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|3-mabel-matiz-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2300-den-itibaren": {
     "title": "3 Mabel Matiz 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2300 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
       "Mabel Matiz",
       "Melike Şahin",
+      "Mor ve Ötesi",
       "Sıla"
     ],
     "sale_status": "upcoming",
@@ -33,7 +34,7 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|ebru-gundes-mabel-matiz-melike-sahin-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|13-agustos-2026|6-melike-sahin-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-3960-den-itibaren": {
+  "concert|ebru-gundes-mabel-matiz-melike-sahin-mor-ve-otesi-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|13-agustos-2026|6-melike-sahin-13-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-3960-den-itibaren": {
     "title": "6 Melike Şahin 13 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 3960 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-melike-sahin--",
     "category": "concert",
@@ -41,6 +42,7 @@
       "Ebru Gündeş",
       "Mabel Matiz",
       "Melike Şahin",
+      "Mor ve Ötesi",
       "Sıla"
     ],
     "sale_status": "on_sale",
@@ -52,19 +54,22 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|14-agustos-2026|9-sila-14-agustos-2026-10-ekim-2026-cesme-acikhava-tiyatrosu-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
-    "title": "9 Sıla 14 Ağustos 2026, 10 Ekim 2026 Çeşme Açıkhava Tiyatrosu, Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/izmir/etkinlik/-sila-konseri",
+  "concert|derya-bedavaci-hadise-mor-ve-otesi-sila|izmir|bilinmiyor|20-eylul-2026|9-derya-bedavaci-konseri-20-eylul-2026-bornova-asik-veysel-acikhava-tiyatrosu-1000-den-itibaren": {
+    "title": "9 Derya Bedavacı Konseri 20 Eylül 2026 Bornova Aşık Veysel Açıkhava Tiyatrosu 1000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/derya--bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
+      "Derya Bedavacı",
+      "Hadise",
+      "Mor ve Ötesi",
       "Sıla"
     ],
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "İzmir",
-    "date": "14 Ağustos 2026",
+    "date": "20 Eylül 2026",
     "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
@@ -84,6 +89,26 @@
     "city": "Antalya",
     "date": "11 Ekim 2026",
     "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|10-ekim-2026|6-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "6 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "10 Ekim 2026",
+    "time": "20:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
