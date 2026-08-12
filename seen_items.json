@@ -49,8 +49,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|ebru-gundes-mabel-matiz-melike-sahin|istanbul|volkswagen-arena|16-ekim-2026|6-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
-    "title": "6 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+  "concert|ebru-gundes-mabel-matiz-melike-sahin|istanbul|volkswagen-arena|16-ekim-2026|5-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "5 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
     "category": "concert",
     "matched_names": [
@@ -66,22 +66,6 @@
     "venue": "Volkswagen Arena",
     "notified_upcoming": true,
     "notified_on_sale": false
-  },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|6-ekim-2026|9-mor-ve-otesi-6-ekim-2026-congresium-ankara-2250-den-itibaren": {
-    "title": "9 mor ve ötesi 6 Ekim 2026 Congresium Ankara 2250 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "6 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
   },
   "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|14-agustos-2026|10-sila-14-agustos-2026-10-ekim-2026-cesme-acikhava-tiyatrosu-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
     "title": "10 Sıla 14 Ağustos 2026, 10 Ekim 2026 Çeşme Açıkhava Tiyatrosu, Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
@@ -151,8 +135,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|12-agustos-mor-ve-otesi-satista-altinoluk-amfi-tiyatro-balikesir-localoffer-250000-den-itibaren-satin-al": {
-    "title": "12 Ağustos mor ve ötesi Satışta Altınoluk Amfi Tiyatro, Balıkesir local_offer 2.500,00₺ 'den itibaren Satın Al",
+  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|12-agustos-mor-ve-otesi-satista-altinoluk-amfi-tiyatro-balikesir-localoffer-175000-den-itibaren-satin-al": {
+    "title": "12 Ağustos mor ve ötesi Satışta Altınoluk Amfi Tiyatro, Balıkesir local_offer 1.750,00₺ 'den itibaren Satın Al",
     "url": "https://www.biletix.com/etkinlik/5AMOY/TURKIYE/tr",
     "category": "concert",
     "matched_names": [
