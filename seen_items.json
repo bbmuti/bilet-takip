@@ -48,9 +48,9 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|14-agustos-2026|3-mor-ve-otesi-14-agustos-2026-antalya-acikhava-4000": {
-    "title": "3 mor ve ötesi 14 Ağustos 2026 Antalya Açıkhava 4000 ₺",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|11-ekim-2026|7-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
+    "title": "7 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
       "Derya Bedavacı",
@@ -62,14 +62,14 @@
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Antalya",
-    "date": "14 Ağustos 2026",
+    "date": "11 Ekim 2026",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|29-agustos-2026|7-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
-    "title": "7 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|29-agustos-2026|8-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
+    "title": "8 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
@@ -128,8 +128,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|8-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "8 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|7-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
+    "title": "7 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
@@ -196,8 +196,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|istanbul|antalya-acikhava|bilinmiyor|14-agustos-mor-ve-otesi-satista-antalya-acikhava-antalya-localoffer-400000-den-itibaren-satin-al-chevronright": {
-    "title": "14 Ağustos mor ve ötesi Satışta Antalya Açıkhava , Antalya local_offer 4.000,00₺ 'den itibaren Satın Al chevron_right",
+  "concert|mor-ve-otesi|istanbul|antalya-acikhava|bilinmiyor|14-agustos-mor-ve-otesi-tukendi-antalya-acikhava-antalya": {
+    "title": "14 Ağustos mor ve ötesi Tükendi Antalya Açıkhava , Antalya",
     "url": "https://www.biletix.com/etkinlik/5AMAB/TURKIYE/tr/mor-ve-otesi-14-08-2026-antalya",
     "category": "concert",
     "matched_names": [
@@ -708,21 +708,25 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|antalya|antalya-acikhava|14-agustos-2026|14-agu-mor-ve-otesi-antalya-acikhava-antalya-biletler": {
-    "title": "14 Ağu mor ve ötesi Antalya Açıkhava Antalya Biletler",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya/seans/243275",
+  "concert|derya-bedavaci-hadise-mabel-matiz-mor-ve-otesi-sila|antalya|antalya-acikhava|bilinmiyor|14-agu-mor-ve-otesi-antalya-acikhava-antalya-tukendi": {
+    "title": "14 Ağu mor ve ötesi Antalya Açıkhava Antalya Tükendi",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mor-ve-otesi-antalya",
     "category": "concert",
     "matched_names": [
-      "Mor ve Ötesi"
+      "Derya Bedavacı",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
     ],
-    "sale_status": "on_sale",
+    "sale_status": "off_sale",
     "site": "bubilet",
     "city": "Antalya",
-    "date": "14 Ağustos 2026",
+    "date": "Bilinmiyor",
     "time": "21:00",
     "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
-    "notified_on_sale": true
+    "notified_on_sale": false
   },
   "concert|mor-ve-otesi|denizli|bilinmiyor|15-agustos-2026|15-agu-mor-ve-otesi-denizli-acikhava-tiyatrosu-denizli-biletler": {
     "title": "15 Ağu mor ve ötesi Denizli Açıkhava Tiyatrosu Denizli Biletler",
