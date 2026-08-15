@@ -50,23 +50,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|9-derya-bedavaci-25-eylul-2026-oran-acikhava-sahnesi-1350-den-itibaren": {
-    "title": "9 Derya Bedavacı 25 Eylül 2026 Oran Açıkhava Sahnesi 1350 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/derya-bedavaci-",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı",
-      "Hadise"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "25 Eylül 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|2-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
     "title": "2 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
