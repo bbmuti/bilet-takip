@@ -32,8 +32,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|4-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
-    "title": "4 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+  "concert|ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|5-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "5 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
     "category": "concert",
     "matched_names": [
@@ -48,6 +48,25 @@
     "venue": "Volkswagen Arena",
     "notified_upcoming": true,
     "notified_on_sale": false
+  },
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|9-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
+    "title": "9 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Hadise",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Antalya",
+    "date": "11 Ekim 2026",
+    "time": "21:00",
+    "venue": "Antalya Açıkhava",
+    "notified_upcoming": false,
+    "notified_on_sale": true
   },
   "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|1-mabel-matiz-13-eylul-2026-30-ekim-2026-bursa-kulturpark-acikhava-tiyatrosu-1950-den-itibaren": {
     "title": "1 Mabel Matiz 13 Eylül 2026, 30 Ekim 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1950 ₺ 'den itibaren",
@@ -89,28 +108,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|7-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "7 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri",
-      "Hadise",
-      "Mabel Matiz",
-      "Mor ve Ötesi",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Bursa",
-    "date": "6 Eylül 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|9-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
-    "title": "9 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|7-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
+    "title": "7 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mor-ve-otesi",
     "category": "concert",
     "matched_names": [
@@ -124,6 +123,26 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "20 Eylül 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|10-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
+    "title": "10 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "6 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
