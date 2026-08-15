@@ -15,25 +15,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|3-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
-    "title": "3 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
-    "category": "concert",
-    "matched_names": [
-      "Ebru Gündeş",
-      "Mabel Matiz"
-    ],
-    "sale_status": "upcoming",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "16 Ekim 2026",
-    "time": "21:00",
-    "venue": "Volkswagen Arena",
-    "notified_upcoming": true,
-    "notified_on_sale": false
-  },
-  "concert|ebru-gundes-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|4-mabel-matiz-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "4 Mabel Matiz 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|ebru-gundes-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|3-mabel-matiz-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "3 Mabel Matiz 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -49,6 +32,23 @@
     "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
     "notified_upcoming": false,
     "notified_on_sale": true
+  },
+  "concert|ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|4-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "4 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
+    "category": "concert",
+    "matched_names": [
+      "Ebru Gündeş",
+      "Mabel Matiz"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": true,
+    "notified_on_sale": false
   },
   "concert|derya-bedavaci-hadise|ankara|bilinmiyor|25-eylul-2026|7-derya-bedavaci-25-eylul-2026-oran-acikhava-sahnesi-1350-den-itibaren": {
     "title": "7 Derya Bedavacı 25 Eylül 2026 Oran Açıkhava Sahnesi 1350 ₺ 'den itibaren",
@@ -85,8 +85,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-sila|izmir|jolly-joker|27-eylul-2026|9-bizlik-masalar-sila-ve-yasar-27-eylul-2026-parc-ceremonie-guzelbahce-2280-den-itibaren": {
-    "title": "9 Bizlik Masalar - Sıla & Yaşar 27 Eylül 2026 Parc Ceremonie Güzelbahçe 2280 ₺ 'den itibaren",
+  "concert|ayta-sozeri-derya-bedavaci-sila|izmir|jolly-joker|27-eylul-2026|10-bizlik-masalar-sila-ve-yasar-27-eylul-2026-parc-ceremonie-guzelbahce-2280-den-itibaren": {
+    "title": "10 Bizlik Masalar - Sıla & Yaşar 27 Eylül 2026 Parc Ceremonie Güzelbahçe 2280 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/bizlik-masalar-sila-yasar",
     "category": "concert",
     "matched_names": [
