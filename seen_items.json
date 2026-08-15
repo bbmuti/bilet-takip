@@ -88,9 +88,9 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|6-eylul-2026|10-sila-6-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "10 Sıla 6 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/bursa/etkinlik/sila-konseri-",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|9-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
+    "title": "9 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mor-ve-otesi",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
@@ -102,7 +102,7 @@
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Bursa",
-    "date": "6 Eylül 2026",
+    "date": "20 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
@@ -143,22 +143,6 @@
   "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|mor-ve-otesi-etkinlikleri": {
     "title": "mor ve ötesi Etkinlikleri",
     "url": "https://www.biletix.com/etkinlik-grup/270304422/TURKIYE/tr",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "biletix",
-    "city": "İstanbul",
-    "date": "Bilinmiyor",
-    "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|istanbul|bilinmiyor|bilinmiyor|15-agustos-mor-ve-otesi-tukendi-denizli-acikhava-tiyatrosu-denizli": {
-    "title": "15 Ağustos mor ve ötesi Tükendi Denizli Açıkhava Tiyatrosu, Denizli",
-    "url": "https://www.biletix.com/etkinlik/5AMAC/TURKIYE/tr/mor-ve-otesi-15-08-2026-denizli",
     "category": "concert",
     "matched_names": [
       "Mor ve Ötesi"
