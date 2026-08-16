@@ -49,22 +49,6 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|ayta-sozeri|izmir|bilinmiyor|28-agustos-2026|10-ayta-sozeri-yemekli-gala-gecesi-28-agustos-2026-joy-sigacik-2500-den-itibaren": {
-    "title": "10 Ayta Sözeri Yemekli Gala Gecesi 28 Ağustos 2026 Joy Sığacık 2500 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/izmir/etkinlik/ayta-sozeri-yemekli-gala-gecesi",
-    "category": "concert",
-    "matched_names": [
-      "Ayta Sözeri"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İzmir",
-    "date": "28 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|4-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
     "title": "4 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
@@ -84,8 +68,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|5-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "5 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|6-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-alanya-acikhava-tiyatrosu-antalya-acikhava-1250-den-itibaren": {
+    "title": "6 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Alanya Açıkhava Tiyatrosu, Antalya Açıkhava 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -701,7 +685,7 @@
     "site": "bubilet",
     "city": "Muğla",
     "date": "16 Ağustos 2026",
-    "time": "21:00",
+    "time": "22:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
