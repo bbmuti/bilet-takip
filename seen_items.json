@@ -51,8 +51,27 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise|ankara|bilinmiyor|2-ekim-2026|7-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
-    "title": "7 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
+  "concert|derya-bedavaci-ebru-gundes-mabel-matiz-sila|istanbul|volkswagen-arena|16-ekim-2026|8-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "8 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Ebru Gündeş",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "concert|derya-bedavaci-hadise|ankara|bilinmiyor|2-ekim-2026|8-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
+    "title": "8 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
     "category": "concert",
     "matched_names": [
