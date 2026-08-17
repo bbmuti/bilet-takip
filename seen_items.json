@@ -51,6 +51,23 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|derya-bedavaci-hadise|ankara|bilinmiyor|2-ekim-2026|7-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
+    "title": "7 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "2 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
   "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|3-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
     "title": "3 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
@@ -420,22 +437,6 @@
     "city": "İstanbul",
     "date": "Bilinmiyor",
     "time": "Bilinmiyor",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci|aydin|bilinmiyor|17-agustos-2026|17-agu-derya-bedavaci-konseri-kusadasi-altin-guvercin-amfi-tiyatro-kusadasi-avm-aydin-biletler": {
-    "title": "17 Ağu Derya Bedavacı Konseri Kuşadası Altın Güvercin Amfi Tiyatro (Kuşadası AVM) Aydın Biletler",
-    "url": "https://www.bubilet.com.tr/aydin/etkinlik/derya--bedavaci-konseri-/seans/256318",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Aydın",
-    "date": "17 Ağustos 2026",
-    "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
     "notified_on_sale": true
