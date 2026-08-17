@@ -33,8 +33,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|5-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
-    "title": "5 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
+  "concert|derya-bedavaci-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|6-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
+    "title": "6 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila-",
     "category": "concert",
     "matched_names": [
@@ -51,17 +51,38 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|8-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
-    "title": "8 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
+  "concert|derya-bedavaci-ebru-gundes-mabel-matiz-sila|istanbul|volkswagen-arena|16-ekim-2026|9-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "9 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
     "category": "concert",
     "matched_names": [
+      "Derya Bedavacı",
+      "Ebru Gündeş",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "concert|derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|2-ekim-2026|8-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
+    "title": "8 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Hadise",
       "Mor ve Ötesi"
     ],
     "sale_status": "on_sale",
     "site": "bubilet",
     "city": "Ankara",
-    "date": "3 Ekim 2026",
+    "date": "2 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
@@ -164,8 +185,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|8-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1650-den-itibaren": {
-    "title": "8 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1650 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|8-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1800-den-itibaren": {
+    "title": "8 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1800 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-",
     "category": "concert",
     "matched_names": [
