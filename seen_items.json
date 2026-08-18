@@ -50,8 +50,26 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|10-ekim-2026|9-sila-10-ekim-2026-kulturpark-acikhava-tiyatrosu-2000-den-itibaren": {
-    "title": "9 Sıla 10 Ekim 2026 Kültürpark Açıkhava Tiyatrosu 2000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|6-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "6 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Ebru Gündeş",
+      "Mabel Matiz"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|10-ekim-2026|10-sila-10-ekim-2026-kulturpark-acikhava-tiyatrosu-2000-den-itibaren": {
+    "title": "10 Sıla 10 Ekim 2026 Kültürpark Açıkhava Tiyatrosu 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/-sila-konseri",
     "category": "concert",
     "matched_names": [
@@ -66,8 +84,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|5-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-alanya-acikhava-tiyatrosu-antalya-acikhava-1250-den-itibaren": {
-    "title": "5 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Alanya Açıkhava Tiyatrosu, Antalya Açıkhava 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|5-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "5 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
