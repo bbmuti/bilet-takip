@@ -50,8 +50,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|6-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
-    "title": "6 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|7-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "7 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
     "category": "concert",
     "matched_names": [
@@ -68,24 +68,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|sila|izmir|kulturpark-acikhava-tiyatrosu|10-ekim-2026|10-sila-10-ekim-2026-kulturpark-acikhava-tiyatrosu-2000-den-itibaren": {
-    "title": "10 Sıla 10 Ekim 2026 Kültürpark Açıkhava Tiyatrosu 2000 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/izmir/etkinlik/-sila-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İzmir",
-    "date": "10 Ekim 2026",
-    "time": "21:00",
-    "venue": "Kültürpark Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|5-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "5 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|6-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "6 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -103,8 +87,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|7-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
-    "title": "7 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|8-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
+    "title": "8 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
@@ -142,8 +126,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|7-mabel-matiz-13-eylul-2026-30-ekim-2026-bursa-kulturpark-acikhava-tiyatrosu-1950-den-itibaren": {
-    "title": "7 Mabel Matiz 13 Eylül 2026, 30 Ekim 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1950 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|6-mabel-matiz-13-eylul-2026-30-ekim-2026-bursa-kulturpark-acikhava-tiyatrosu-1950-den-itibaren": {
+    "title": "6 Mabel Matiz 13 Eylül 2026, 30 Ekim 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1950 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
