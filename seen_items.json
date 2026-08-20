@@ -50,40 +50,6 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|2-ekim-2026|7-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
-    "title": "7 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı",
-      "Hadise",
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "2 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|9-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
-    "title": "9 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
-    "category": "concert",
-    "matched_names": [
-      "Mor ve Ötesi"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "3 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
   "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|2-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
     "title": "2 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
