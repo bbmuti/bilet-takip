@@ -51,25 +51,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|derya-bedavaci-hadise|ankara|bilinmiyor|2-ekim-2026|10-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
-    "title": "10 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı",
-      "Hadise"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Ankara",
-    "date": "2 Ekim 2026",
-    "time": "21:00",
-    "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|4-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
-    "title": "4 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|5-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
+    "title": "5 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
@@ -146,8 +129,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|10-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
-    "title": "10 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|20-eylul-2026|9-mor-ve-otesi-20-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
+    "title": "9 mor ve ötesi 20 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mor-ve-otesi",
     "category": "concert",
     "matched_names": [
