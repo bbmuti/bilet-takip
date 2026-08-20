@@ -31,25 +31,8 @@
     "notified_upcoming": true,
     "notified_on_sale": false
   },
-  "concert|mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|7-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
-    "title": "7 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila-",
-    "category": "concert",
-    "matched_names": [
-      "Mabel Matiz",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "İstanbul",
-    "date": "30 Ağustos 2026",
-    "time": "21:00",
-    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|8-mabel-matiz-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400-den-itibaren": {
-    "title": "8 Mabel Matiz 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺ 'den itibaren",
+  "concert|mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|21-agustos-2026|6-mabel-matiz-21-agustos-2026-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400-den-itibaren": {
+    "title": "6 Mabel Matiz 21 Ağustos 2026, 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -65,8 +48,25 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|5-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
-    "title": "5 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
+  "concert|mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|9-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
+    "title": "9 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila-",
+    "category": "concert",
+    "matched_names": [
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "30 Ağustos 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|6-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
+    "title": "6 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
     "category": "concert",
     "matched_names": [
