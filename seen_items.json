@@ -33,8 +33,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|8-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
-    "title": "8 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|7-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
+    "title": "7 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
     "category": "concert",
     "matched_names": [
@@ -44,6 +44,24 @@
     "site": "bubilet",
     "city": "Ankara",
     "date": "3 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci-hadise-mor-ve-otesi|ankara|bilinmiyor|2-ekim-2026|10-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
+    "title": "10 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Derya Bedavacı",
+      "Hadise",
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "2 Ekim 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
     "notified_upcoming": false,
@@ -87,8 +105,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|2-mabel-matiz-13-eylul-2026-30-ekim-2026-bursa-kulturpark-acikhava-tiyatrosu-2600-den-itibaren": {
-    "title": "2 Mabel Matiz 13 Eylül 2026, 30 Ekim 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2600 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|13-eylul-2026|1-mabel-matiz-13-eylul-2026-30-ekim-2026-bursa-kulturpark-acikhava-tiyatrosu-2600-den-itibaren": {
+    "title": "1 Mabel Matiz 13 Eylül 2026, 30 Ekim 2026 Bursa Kültürpark Açıkhava Tiyatrosu 2600 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/-mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
@@ -107,8 +125,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|5-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1750-den-itibaren": {
-    "title": "5 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1750 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|4-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1750-den-itibaren": {
+    "title": "4 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1750 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
