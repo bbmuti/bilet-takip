@@ -33,12 +33,11 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|hadise-mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|7-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
-    "title": "7 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|8-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
+    "title": "8 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
     "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
     "category": "concert",
     "matched_names": [
-      "Hadise",
       "Mor ve Ötesi"
     ],
     "sale_status": "on_sale",
@@ -69,8 +68,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|5-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-alanya-acikhava-tiyatrosu-antalya-acikhava-1250-den-itibaren": {
-    "title": "5 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Alanya Açıkhava Tiyatrosu, Antalya Açıkhava 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|5-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "5 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -108,8 +107,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|7-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1750-den-itibaren": {
-    "title": "7 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1750 ₺ 'den itibaren",
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|2-eylul-2026|5-hadise-konseri-2-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1750-den-itibaren": {
+    "title": "5 Hadise Konseri 2 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1750 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/bursa/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
