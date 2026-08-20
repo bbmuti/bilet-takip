@@ -15,8 +15,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci|istanbul|bilinmiyor|21-agustos-2026|3-derya-bedavaci-konseri-21-agustos-2026-buyukcekmece-kulturpark-kemal-sunal-amfi-tiyatro-2470-den-itibaren": {
-    "title": "3 Derya Bedavacı Konseri 21 Ağustos 2026 Büyükçekmece Kültürpark Kemal Sunal Amfi Tiyatro 2470 ₺ 'den itibaren",
+  "concert|derya-bedavaci|istanbul|bilinmiyor|21-agustos-2026|4-derya-bedavaci-konseri-21-agustos-2026-buyukcekmece-kulturpark-kemal-sunal-amfi-tiyatro-2470-den-itibaren": {
+    "title": "4 Derya Bedavacı Konseri 21 Ağustos 2026 Büyükçekmece Kültürpark Kemal Sunal Amfi Tiyatro 2470 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/derya--bedavaci-konseri",
     "category": "concert",
     "matched_names": [
@@ -48,8 +48,26 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|8-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
-    "title": "8 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
+  "concert|ayta-sozeri-derya-bedavaci-sila|izmir|jolly-joker|27-eylul-2026|10-bizlik-masalar-sila-ve-yasar-27-eylul-2026-parc-ceremonie-guzelbahce-2280-den-itibaren": {
+    "title": "10 Bizlik Masalar - Sıla & Yaşar 27 Eylül 2026 Parc Ceremonie Güzelbahçe 2280 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/izmir/etkinlik/bizlik-masalar-sila-yasar",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "İzmir",
+    "date": "27 Eylül 2026",
+    "time": "18:30",
+    "venue": "Jolly Joker",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|9-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
+    "title": "9 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
