@@ -66,8 +66,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|9-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
-    "title": "9 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
+  "concert|derya-bedavaci-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|30-agustos-2026|10-sila-konseri-30-agustos-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-2100-den-itibaren": {
+    "title": "10 Sıla Konseri 30 Ağustos 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 2100 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/-sila-",
     "category": "concert",
     "matched_names": [
@@ -101,8 +101,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-derya-bedavaci-sila|izmir|jolly-joker|27-eylul-2026|7-bizlik-masalar-sila-ve-yasar-27-eylul-2026-parc-ceremonie-guzelbahce-2280-den-itibaren": {
-    "title": "7 Bizlik Masalar - Sıla & Yaşar 27 Eylül 2026 Parc Ceremonie Güzelbahçe 2280 ₺ 'den itibaren",
+  "concert|ayta-sozeri-derya-bedavaci-sila|izmir|jolly-joker|27-eylul-2026|8-bizlik-masalar-sila-ve-yasar-27-eylul-2026-parc-ceremonie-guzelbahce-2280-den-itibaren": {
+    "title": "8 Bizlik Masalar - Sıla & Yaşar 27 Eylül 2026 Parc Ceremonie Güzelbahçe 2280 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/bizlik-masalar-sila-yasar",
     "category": "concert",
     "matched_names": [
@@ -138,8 +138,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|7-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "7 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|8-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "8 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
@@ -157,8 +157,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|9-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
-    "title": "9 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|29-agustos-2026|10-hadise-konseri-29-agustos-2026-antalya-acikhava-2000-den-itibaren": {
+    "title": "10 Hadise Konseri 29 Ağustos 2026 Antalya Açıkhava 2000 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/hadise-konseri",
     "category": "concert",
     "matched_names": [
@@ -211,6 +211,26 @@
     "site": "bubilet",
     "city": "Bursa",
     "date": "2 Eylül 2026",
+    "time": "21:00",
+    "venue": "Kültürpark Açıkhava Tiyatrosu",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|ayta-sozeri-hadise-mabel-matiz-mor-ve-otesi-sila|bursa|kulturpark-acikhava-tiyatrosu|1-eylul-2026|8-ayta-sozeri-konseri-1-eylul-2026-bursa-kulturpark-acikhava-tiyatrosu-1500-den-itibaren": {
+    "title": "8 Ayta Sözeri Konseri 1 Eylül 2026 Bursa Kültürpark Açıkhava Tiyatrosu 1500 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/bursa/etkinlik/ayta-sozeri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Hadise",
+      "Mabel Matiz",
+      "Mor ve Ötesi",
+      "Sıla"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Bursa",
+    "date": "1 Eylül 2026",
     "time": "21:00",
     "venue": "Kültürpark Açıkhava Tiyatrosu",
     "notified_upcoming": false,
