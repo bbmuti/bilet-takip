@@ -67,6 +67,26 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
+  "concert|ayta-sozeri-derya-bedavaci-hadise-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|2-kasim-2026|10-ayta-sozeri-2-kasim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-yakinda": {
+    "title": "10 Ayta Sözeri 2 Kasım 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu YAKINDA",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/aytasozeri-",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Hadise",
+      "Mabel Matiz",
+      "Sıla"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "2 Kasım 2026",
+    "time": "21:00",
+    "venue": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
   "concert|ayta-sozeri-derya-bedavaci-mabel-matiz-sila|izmir|jolly-joker|27-eylul-2026|9-bizlik-masalar-sila-ve-yasar-27-eylul-2026-parc-ceremonie-guzelbahce-2280-den-itibaren": {
     "title": "9 Bizlik Masalar - Sıla & Yaşar 27 Eylül 2026 Parc Ceremonie Güzelbahçe 2280 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/bizlik-masalar-sila-yasar",
@@ -86,8 +106,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|6-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
-    "title": "6 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|5-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
+    "title": "5 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
     "category": "concert",
     "matched_names": [
