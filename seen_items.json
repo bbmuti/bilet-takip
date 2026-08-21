@@ -31,12 +31,13 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|22-agustos-2026|3-mabel-matiz-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400-den-itibaren": {
+  "concert|ayta-sozeri-ebru-gundes-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|22-agustos-2026|3-mabel-matiz-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400-den-itibaren": {
     "title": "3 Mabel Matiz 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
+      "Ebru Gündeş",
       "Mabel Matiz",
       "Sıla"
     ],
@@ -49,8 +50,59 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|mabel-matiz-sila|izmir|bilinmiyor|12-eylul-2026|9-mabel-matiz-12-eylul-2026-alsancak-tarihi-havagazi-fabrikasi-1500-den-itibaren": {
-    "title": "9 Mabel Matiz 12 Eylül 2026 Alsancak Tarihi Havagazı Fabrikası 1500 ₺ 'den itibaren",
+  "concert|ebru-gundes-mabel-matiz|istanbul|volkswagen-arena|16-ekim-2026|5-ebru-gundes-beraber-soyluyoruz-16-ekim-2026-17-ekim-2026-volkswagen-arena-6000-den-itibaren": {
+    "title": "5 Ebru Gündeş “Beraber Söylüyoruz” 16 Ekim 2026, 17 Ekim 2026 Volkswagen Arena 6000 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/istanbul/etkinlik/ebru-gundes",
+    "category": "concert",
+    "matched_names": [
+      "Ebru Gündeş",
+      "Mabel Matiz"
+    ],
+    "sale_status": "upcoming",
+    "site": "bubilet",
+    "city": "İstanbul",
+    "date": "16 Ekim 2026",
+    "time": "21:00",
+    "venue": "Volkswagen Arena",
+    "notified_upcoming": true,
+    "notified_on_sale": false
+  },
+  "concert|ayta-sozeri-derya-bedavaci-hadise|ankara|bilinmiyor|2-ekim-2026|8-hadise-2-ekim-2026-oran-acikhava-sahnesi-3350-den-itibaren": {
+    "title": "8 Hadise 2 Ekim 2026 Oran Açıkhava Sahnesi 3350 ₺ 'den itibaren",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/hadise",
+    "category": "concert",
+    "matched_names": [
+      "Ayta Sözeri",
+      "Derya Bedavacı",
+      "Hadise"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "2 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mor-ve-otesi|ankara|bilinmiyor|3-ekim-2026|9-mor-ve-otesi-3-ekim-2026-odtu-md-visnelik-1999": {
+    "title": "9 mor ve ötesi 3 Ekim 2026 ODTÜ MD Vişnelik 1999 ₺",
+    "url": "https://www.bubilet.com.tr/ankara/etkinlik/mor-ve-otesi-ankara",
+    "category": "concert",
+    "matched_names": [
+      "Mor ve Ötesi"
+    ],
+    "sale_status": "on_sale",
+    "site": "bubilet",
+    "city": "Ankara",
+    "date": "3 Ekim 2026",
+    "time": "21:00",
+    "venue": "Bilinmiyor",
+    "notified_upcoming": false,
+    "notified_on_sale": true
+  },
+  "concert|mabel-matiz-sila|izmir|bilinmiyor|12-eylul-2026|10-mabel-matiz-12-eylul-2026-alsancak-tarihi-havagazi-fabrikasi-1500-den-itibaren": {
+    "title": "10 Mabel Matiz 12 Eylül 2026 Alsancak Tarihi Havagazı Fabrikası 1500 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/izmir/etkinlik/-mabel-matiz-",
     "category": "concert",
     "matched_names": [
@@ -63,25 +115,6 @@
     "date": "12 Eylül 2026",
     "time": "21:00",
     "venue": "Bilinmiyor",
-    "notified_upcoming": false,
-    "notified_on_sale": true
-  },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|11-ekim-2026|10-mabel-matiz-11-ekim-2026-12-ekim-2026-antalya-acikhava-1700-den-itibaren": {
-    "title": "10 Mabel Matiz 11 Ekim 2026, 12 Ekim 2026 Antalya Açıkhava 1700 ₺ 'den itibaren",
-    "url": "https://www.bubilet.com.tr/antalya/etkinlik/mabel-matiz-konseri",
-    "category": "concert",
-    "matched_names": [
-      "Derya Bedavacı",
-      "Hadise",
-      "Mabel Matiz",
-      "Sıla"
-    ],
-    "sale_status": "on_sale",
-    "site": "bubilet",
-    "city": "Antalya",
-    "date": "11 Ekim 2026",
-    "time": "21:00",
-    "venue": "Antalya Açıkhava",
     "notified_upcoming": false,
     "notified_on_sale": true
   },
