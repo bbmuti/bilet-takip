@@ -31,13 +31,12 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|ayta-sozeri-ebru-gundes-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|22-agustos-2026|2-mabel-matiz-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400-den-itibaren": {
+  "concert|ayta-sozeri-mabel-matiz-sila|istanbul|harbiye-cemil-topuzlu-acikhava-tiyatrosu|22-agustos-2026|2-mabel-matiz-22-agustos-2026-22-eylul-2026-23-eylul-2026-20-ekim-2026-21-ekim-2026-harbiye-cemil-topuzlu-acikhava-tiyatrosu-1400-den-itibaren": {
     "title": "2 Mabel Matiz 22 Ağustos 2026, 22 Eylül 2026, 23 Eylül 2026, 20 Ekim 2026, 21 Ekim 2026 Harbiye Cemil Topuzlu Açıkhava Tiyatrosu 1400 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/istanbul/etkinlik/mabel-matiz-konseri-",
     "category": "concert",
     "matched_names": [
       "Ayta Sözeri",
-      "Ebru Gündeş",
       "Mabel Matiz",
       "Sıla"
     ],
@@ -100,8 +99,8 @@
     "notified_upcoming": false,
     "notified_on_sale": true
   },
-  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|4-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
-    "title": "4 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
+  "concert|derya-bedavaci-hadise-mabel-matiz-sila|antalya|antalya-acikhava|10-ekim-2026|2-derya-bedavaci-konseri-10-ekim-2026-11-ekim-2026-antalya-acikhava-alanya-acikhava-tiyatrosu-1250-den-itibaren": {
+    "title": "2 Derya Bedavacı Konseri 10 Ekim 2026, 11 Ekim 2026 Antalya Açıkhava , Alanya Açıkhava Tiyatrosu 1250 ₺ 'den itibaren",
     "url": "https://www.bubilet.com.tr/antalya/etkinlik/derya-bedavaci-konseri-",
     "category": "concert",
     "matched_names": [
