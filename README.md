@@ -25,7 +25,7 @@ Bilet Takip; çeşitli etkinlik platformlarındaki konser ve spor bileti duyurul
 
 - `ticket_notifier.py`: Tarama, eşleştirme ve bildirim işlemleri
 - `requirements.txt`: Python bağımlılıkları
-- `seen_items.json`: Tekrarlı bildirimleri önleyen durum kaydı
+- `seen_items.json`: İlk çalıştırmada yerel olarak oluşturulan ve Git tarafından takip edilmeyen durum kaydı
 
 ## Yerel Kurulum
 
@@ -56,6 +56,8 @@ Ardından:
 ```bash
 python ticket_notifier.py
 ```
+
+`seen_items.json` ilk çalıştırmada otomatik oluşturulur. Bu çalışma zamanı dosyası `.gitignore` kapsamında tutulur.
 
 ## Güvenlik
 
