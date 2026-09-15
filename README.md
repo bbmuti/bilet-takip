@@ -1,8 +1,20 @@
 # Bilet Takip
 
-Bilet Takip; çeşitli etkinlik platformlarındaki konser ve spor bileti duyurularını izlemek, eşleşen etkinlikleri sınıflandırmak ve e-posta bildirimi oluşturmak amacıyla geliştirilmiş Python tabanlı bir takip aracıdır.
+Bilet Takip; çeşitli etkinlik platformlarındaki konser ve spor bileti duyurularını izleyen, eşleşen etkinlikleri sınıflandıran, daha önce görülen sonuçları takip eden ve gerektiğinde e-posta bildirimi oluşturabilen Python tabanlı bir takip aracıdır.
 
-> **Durum:** Zamanlanmış GitHub Actions otomasyonu devre dışıdır. Proje şu anda otomatik olarak çalışmaz ve e-posta göndermez.
+## Nasıl çalışır?
+
+```mermaid
+flowchart LR
+    A[Bilet platformları] --> B[Scraper]
+    B --> C[Veri çıkarımı]
+    C --> D[Anahtar kelime eşleştirme]
+    D --> E[Durum sınıflandırma]
+    E --> F[Seen-items kontrolü]
+    F --> G{Yeni / değişen etkinlik?}
+    G -- Evet --> H[SMTP bildirimi]
+    G -- Hayır --> I[Bekle]
+```
 
 ## Özellikler
 
@@ -12,36 +24,43 @@ Bilet Takip; çeşitli etkinlik platformlarındaki konser ve spor bileti duyurul
 - Şehir, tarih, saat ve mekân bilgilerini çıkarma
 - Daha önce görülen etkinlikleri JSON tabanlı durum kaydıyla takip etme
 - SMTP üzerinden e-posta bildirimi oluşturma
+- Kimlik bilgilerini kaynak kod yerine ortam değişkenlerinden alma
 
-## Kullanılan Teknolojiler
+## Teknolojiler
 
-- Python 3.11
-- Requests
-- Beautiful Soup
-- SMTP
-- GitHub Actions (isteğe bağlı; mevcut repoda devre dışı)
+Python 3.11, Requests, Beautiful Soup, SMTP, JSON tabanlı yerel state ve GitHub Actions altyapısı.
 
-## Proje Yapısı
+## Proje yapısı
 
-- `ticket_notifier.py`: Tarama, eşleştirme ve bildirim işlemleri
-- `requirements.txt`: Python bağımlılıkları
-- `seen_items.json`: İlk çalıştırmada yerel olarak oluşturulan ve Git tarafından takip edilmeyen durum kaydı
+```text
+.
+├── ticket_notifier.py   # Tarama, eşleştirme ve bildirim işlemleri
+├── requirements.txt     # Python bağımlılıkları
+├── README.md
+└── seen_items.json      # İlk çalıştırmada oluşur; Git tarafından takip edilmez
+```
 
-## Yerel Kurulum
+## Yerel kurulum
 
 ```bash
 python -m venv .venv
+```
+
+Linux/macOS:
+
+```bash
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Windows PowerShell kullanıyorsanız sanal ortamı şu komutla etkinleştirebilirsiniz:
+Windows PowerShell:
 
 ```powershell
 .venv\Scripts\Activate.ps1
+pip install -r requirements.txt
 ```
 
-Çalıştırmadan önce aşağıdaki ortam değişkenleri tanımlanmalıdır:
+## Yapılandırma
 
 | Değişken | Açıklama |
 |---|---|
@@ -57,8 +76,12 @@ Ardından:
 python ticket_notifier.py
 ```
 
-`seen_items.json` ilk çalıştırmada otomatik oluşturulur. Bu çalışma zamanı dosyası `.gitignore` kapsamında tutulur.
+`seen_items.json` ilk çalıştırmada otomatik oluşturulur ve `.gitignore` kapsamında tutulur.
 
 ## Güvenlik
 
-Kimlik bilgileri kaynak koduna yazılmamalıdır. SMTP bilgileri yalnızca ortam değişkenleri veya güvenli secret yönetimi üzerinden sağlanmalıdır.
+SMTP parolaları, API anahtarları veya diğer kimlik bilgileri kaynak koduna yazılmamalıdır. Yerel kullanımda ortam değişkenleri, CI ortamında ise repository secret mekanizması kullanılmalıdır. Web scraping yapılan platformların HTML yapıları zaman içinde değişebileceği için parser davranışı düzenli olarak doğrulanmalıdır.
+
+## Proje durumu
+
+Tarama ve yerel bildirim altyapısı portföy amacıyla korunmaktadır. Repository'deki zamanlanmış GitHub Actions otomasyonu şu anda devre dışıdır; bu nedenle depo kendi başına periyodik tarama veya e-posta gönderimi başlatmaz. Yerel çalıştırma yukarıdaki yapılandırma ile yapılabilir.
